@@ -1,0 +1,39 @@
+<footer class="footer flex">
+	<ul class="flex shrink flex-col justify-start sm:flex-row">
+		<li>
+			<a
+				href="https://github.com/playform"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="icon flex">
+				<picture>
+					<source
+						media="(prefers-color-scheme: dark)"
+						srcset="/img/vendor/github-mark-white.svg"
+					/>
+					<source
+						media="(prefers-color-scheme: light)"
+						srcset="/img/vendor/github-mark.svg"
+					/>
+					<img alt="GitHub" src="/img/vendor/github-mark-white.svg" />
+				</picture>
+			</a>
+		</li>
+	</ul>
+	<slot />
+	<ul class="flex flex-1 flex-col justify-end sm:flex-row">
+		<li>
+			<a href="/gdpr">Personal Data Protection Policy</a>
+		</li>
+		<li>
+			<a href="/privacy-policy">Privacy Policy</a>
+		</li>
+		<li>
+			<a href="/terms-of-service">Terms of Service</a>
+		</li>
+	</ul>
+</footer>
+
+<style is:global>
+	@import "./../styles/components/footer.css";
+</style>

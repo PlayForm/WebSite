@@ -1,8 +1,8 @@
 .article {
 	@apply prose
 		mx-auto
-		dark:prose-invert
-		prose-h1:font-black;
+		prose-h1:font-black
+		dark:prose-invert;
 
 	.data-footnote-backref {
 		@apply font-sans

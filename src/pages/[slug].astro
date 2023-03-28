@@ -3,8 +3,8 @@ import Base from "@layouts/Base.astro";
 
 import "../styles/components/article.css";
 
-export async function getStaticPaths() {
-	return [
+export const getStaticPaths = async () =>
+	[
 		"terms-of-service",
 		"gdpr",
 		"privacy-policy",
@@ -12,7 +12,6 @@ export async function getStaticPaths() {
 	].map((slug) => ({
 		params: { slug },
 	}));
-}
 
 const slug =
 	typeof Astro.params["slug"] === "string" ? Astro.params["slug"] : "";

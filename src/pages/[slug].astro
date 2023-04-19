@@ -16,8 +16,7 @@ export const getStaticPaths = async () =>
 const slug =
 	typeof Astro.params["slug"] === "string" ? Astro.params["slug"] : "";
 
-const pages = await Astro.glob("./../content/en/*.md");
-const file = pages.filter(
+const file = (await Astro.glob("./../content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>
 		page.file.indexOf(slug) > -1 ||
 		(slug == "gdpr" &&

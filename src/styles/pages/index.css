@@ -62,8 +62,8 @@
 			select-none
 			rounded-xl
 			bg-black
-			py-3
 			px-6
+			py-3
 			text-white
 			outline-white
 			hover:shadow-xl

@@ -10,7 +10,7 @@
 	h2 {
 		@apply text-lg
 			font-light
-			dark:text-stone-500
+			dark:text-stone-300
 			md:text-xl;
 	}
 

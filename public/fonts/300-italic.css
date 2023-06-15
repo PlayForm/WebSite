@@ -4,7 +4,9 @@
 	font-weight: 300;
 	src: url("/fonts/AlbertSans300italic.eot");
 	src: local(""),
-		url("/fonts/AlbertSans300italic.eot?#iefix") format("embedded-opentype"),url("/fonts/AlbertSans300italic.woff2") format("woff2"),url("/fonts/AlbertSans300italic.woff")
-			format("woff"),url("/fonts/AlbertSans300italic.ttf")
-			format("truetype"),url("/fonts/AlbertSans300italic.svg#AlbertSans") format("svg");
+		url("/fonts/AlbertSans300italic.eot?#iefix") format("embedded-opentype"),
+		url("/fonts/AlbertSans300italic.woff2") format("woff2"),
+		url("/fonts/AlbertSans300italic.woff") format("woff"),
+		url("/fonts/AlbertSans300italic.ttf") format("truetype"),
+		url("/fonts/AlbertSans300italic.svg#AlbertSans") format("svg");
 }

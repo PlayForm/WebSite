@@ -28,7 +28,7 @@ module.exports = {
 				},
 			},
 			ringWidth: {
-				"5": "5px",
+				5: "5px",
 			},
 		},
 	},

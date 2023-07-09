@@ -1,17 +1,17 @@
 {
 	"name": "playform-web",
 	"version": "0.0.1",
+	"private": true,
 	"description": "📄 Starter template for AstroJS.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Playform/playform.cloud.git"
-	},
 	"homepage": "https://github.com/Playform/playform.cloud#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/playform.cloud/issues"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Playform/playform.cloud.git"
+	},
 	"license": "MIT",
-	"private": true,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"

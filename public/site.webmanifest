@@ -1,7 +1,12 @@
 {
+<<<<<<< HEAD
 	"background_color": "#ffffff",
 	"categories": ["business", "productivity"],
 	"description": "Cloud computing simplified",
+=======
+	"background_color": "// TODO Set the background color of the app",
+	"categories": [],
+>>>>>>> upstream/main
 	"display": "minimal-ui",
 	"icons": [
 		{
@@ -63,5 +68,10 @@
 	"orientation": "landscape",
 	"short_name": "playform",
 	"start_url": "/",
+<<<<<<< HEAD
 	"theme_color": "#ffffff"
 }
+=======
+	"theme_color": "// TODO Use the same theme color from template.html"
+}
+>>>>>>> upstream/main

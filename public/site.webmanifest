@@ -1,78 +1,70 @@
 {
-<<<<<<< HEAD
-	"background_color": "#ffffff",
-	"categories": ["business", "productivity"],
-	"description": "Cloud computing simplified",
-	"display": "minimal-ui",
-	"icons": [
-		{
-			"purpose": "any maskable",
-			"sizes": "36x36",
-			"src": "/img/favicon/android-chrome-36x36.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "48x48",
-			"src": "/img/favicon/android-chrome-48x48.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "72x72",
-			"src": "/img/favicon/android-chrome-72x72.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "96x96",
-			"src": "/img/favicon/android-chrome-96x96.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "144x144",
-			"src": "/img/favicon/android-chrome-144x144.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "192x192",
-			"src": "/img/favicon/android-chrome-192x192.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "256x256",
-			"src": "/img/favicon/android-chrome-256x256.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "384x384",
-			"src": "/img/favicon/android-chrome-384x384.png",
-			"type": "image/png"
-		},
-		{
-			"purpose": "any maskable",
-			"sizes": "512x512",
-			"src": "/img/favicon/android-chrome-512x512.png",
-			"type": "image/png"
-		}
-	],
-	"name": "Playform",
-	"orientation": "landscape",
-	"short_name": "playform",
-	"start_url": "/",
-	"theme_color": "#ffffff"
-=======
-	"background_color": "// TODO Set the background color of the app",
-	"categories": [],
-	"display": "minimal-ui",
-	"name": "// TODO Use the same title as in template.html",
-	"orientation": "landscape",
-	"short_name": "// TODO Title but lowercase",
-	"start_url": "/",
-	"theme_color": "// TODO Use the same theme color from template.html"
->>>>>>> upstream/main
+    "background_color": "#ffffff",
+    "categories": [
+        "business",
+        "productivity"
+    ],
+    "description": "Cloud computing simplified",
+    "display": "minimal-ui",
+    "icons": [
+        {
+            "purpose": "any maskable",
+            "sizes": "36x36",
+            "src": "/img/favicon/android-chrome-36x36.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "48x48",
+            "src": "/img/favicon/android-chrome-48x48.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "72x72",
+            "src": "/img/favicon/android-chrome-72x72.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "96x96",
+            "src": "/img/favicon/android-chrome-96x96.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "144x144",
+            "src": "/img/favicon/android-chrome-144x144.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "192x192",
+            "src": "/img/favicon/android-chrome-192x192.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "256x256",
+            "src": "/img/favicon/android-chrome-256x256.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "384x384",
+            "src": "/img/favicon/android-chrome-384x384.png",
+            "type": "image/png"
+        },
+        {
+            "purpose": "any maskable",
+            "sizes": "512x512",
+            "src": "/img/favicon/android-chrome-512x512.png",
+            "type": "image/png"
+        }
+    ],
+    "name": "Playform",
+    "orientation": "landscape",
+    "short_name": "playform",
+    "start_url": "/",
+    "theme_color": "#ffffff"
 }

@@ -3,7 +3,8 @@
 	font-style: normal;
 	font-weight: 400;
 	src: url("/fonts/AlbertSansregular.eot");
-	src: local(""),
+	src:
+		local(""),
 		url("/fonts/AlbertSansregular.eot?#iefix") format("embedded-opentype"),
 		url("/fonts/AlbertSansregular.woff2") format("woff2"),
 		url("/fonts/AlbertSansregular.woff") format("woff"),

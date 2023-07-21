@@ -11,6 +11,7 @@ export default defineConfig({
 	site: "https://playform.cloud",
 	experimental: {
 		assets: true,
+		viewTransitions: true,
 	},
 	compressHTML: true,
 	integrations: [

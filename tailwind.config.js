@@ -30,6 +30,11 @@ module.exports = {
 			ringWidth: {
 				5: "5px",
 			},
+			colors: {
+				playform: {
+					950: "#010205",
+				},
+			},
 		},
 	},
 	variants: {},

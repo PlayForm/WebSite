@@ -2,12 +2,12 @@
 	font-family: "Albert Sans";
 	font-style: normal;
 	font-weight: 400;
-	src: url("/fonts/AlbertSansregular.eot");
+	src: url("/fonts/AlbertSansRegular.eot");
 	src:
 		local(""),
-		url("/fonts/AlbertSansregular.eot?#iefix") format("embedded-opentype"),
-		url("/fonts/AlbertSansregular.woff2") format("woff2"),
-		url("/fonts/AlbertSansregular.woff") format("woff"),
-		url("/fonts/AlbertSansregular.ttf") format("truetype"),
-		url("/fonts/AlbertSansregular.svg#AlbertSans") format("svg");
+		url("/fonts/AlbertSansRegular.eot?#iefix") format("embedded-opentype"),
+		url("/fonts/AlbertSansRegular.woff2") format("woff2"),
+		url("/fonts/AlbertSansRegular.woff") format("woff"),
+		url("/fonts/AlbertSansRegular.ttf") format("truetype"),
+		url("/fonts/AlbertSansRegular.svg#AlbertSans") format("svg");
 }

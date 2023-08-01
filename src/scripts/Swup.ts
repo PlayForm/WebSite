@@ -12,4 +12,5 @@ new Swup({
 		new SwupPreloadPlugin(),
 		new SwupScrollPlugin(),
 		new SwupBodyClassPlugin(),
+	],
 });

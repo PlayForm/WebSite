@@ -1,7 +1,6 @@
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
 import SwupHeadPlugin from "@swup/head-plugin";
 import SwupPreloadPlugin from "@swup/preload-plugin";
-// @ts-expect-error
 import SwupScrollPlugin from "@swup/scroll-plugin";
 import Swup from "swup";
 

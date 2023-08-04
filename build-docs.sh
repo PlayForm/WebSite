@@ -1,11 +1,11 @@
 #!/usr/bin/env sh
 
-function find_documents() {
+find_documents() {
 	\find src/content/en ! -iname "~*" -iname "*.docx" 2> /dev/null
 }
 
 for document in $(find_documents); do
-	pandoc "$document" -o ${document%.docx}.md \
+	pandoc "$document" -o "${document%.docx}".md \
 		--columns=80 \
 		--eol=lf \
 		--from=docx+empty_paragraphs \

@@ -18,5 +18,5 @@
 			"astro/env"
 		]
 	},
-	"extends": "@lightrix/configuration/base/ts"
+	"extends": "@lightrix/configuration/Base/TypeScript"
 }

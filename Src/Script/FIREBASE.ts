@@ -1,6 +1,6 @@
-import { initializeApp } from "firebase/app";
+import { initializeApp as Initialize } from "firebase/app";
 
-const firebaseConfig = {
+Initialize({
 	apiKey: "AIzaSyAkevZLi2u7BNRBxvnwYTTgRbpbQYWjGL8",
 	authDomain: "playform-cloud.firebaseapp.com",
 	projectId: "playform-cloud",
@@ -8,6 +8,4 @@ const firebaseConfig = {
 	messagingSenderId: "541150662775",
 	appId: "1:541150662775:web:574599325594e05ae7f672",
 	measurementId: "G-RFLGQF2GPJ",
-};
-
-initializeApp(firebaseConfig);
+});

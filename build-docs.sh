@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 find_documents() {
-	\find src/content/en ! -iname "~*" -iname "*.docx" 2> /dev/null
+	\find src/content/en ! -iname "~*" -iname "*.docx" 2>/dev/null
 }
 
 for document in $(find_documents); do

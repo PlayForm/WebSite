@@ -2,14 +2,14 @@ import PreFetch from "@astrojs/prefetch";
 import SiteMap from "@astrojs/sitemap";
 import Compress from "astro-compress";
 import Critters from "astro-critters";
-import ROME from "astro-rome";
+// import ROME from "astro-rome";
 import { defineConfig } from "astro/config";
 import Worker from "astrojs-service-worker";
 
 export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
-	outDir: "./Target",
+	// outDir: "./Target",
 	site: "https://playform.cloud",
 	experimental: {
 		assets: true,
@@ -21,7 +21,7 @@ export default defineConfig({
 		SiteMap(),
 		Critters({ Logger: 1 }),
 		PreFetch(),
-		ROME({ Logger: 1 }),
+		// ROME({ Logger: 1 }),
 		Compress({ Logger: 1 }),
 	],
 	vite: {

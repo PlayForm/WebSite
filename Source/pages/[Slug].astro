@@ -8,17 +8,17 @@ export const getStaticPaths = async () =>
 		"gdpr",
 		"privacy-policy",
 		"personal-data-protection-policy",
-	].map((slug) => ({
-		params: { slug },
+	].map((Slug) => ({
+		params: { Slug },
 	}));
 
-const slug =
-	typeof Astro.params["slug"] === "string" ? Astro.params["slug"] : "";
+const Slug =
+	typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : "";
 
-const file = (await Astro.glob("./../content/en/*.md")).filter(
+const file = (await Astro.glob("./../Content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>
-		page.file.indexOf(slug) > -1 ||
-		(slug == "gdpr" &&
+		page.file.indexOf(Slug) > -1 ||
+		(Slug == "gdpr" &&
 			page.file.indexOf("personal-data-protection-policy") > -1)
 );
 
@@ -36,11 +36,11 @@ if (typeof file[0] !== "undefined") {
 
 <Base
 	fonts={[
-		{ href: "/fonts/AlbertSans500.css?rev=1.1" },
-		{ href: "/fonts/AlbertSans600.css?rev=1.1" },
-		{ href: "/fonts/AlbertSans700.css?rev=1.1" },
-		{ href: "/fonts/AlbertSans800.css?rev=1.1" },
-		{ href: "/fonts/AlbertSans900.css?rev=1.1" },
+		{ href: "/Font/AlbertSans500.css?rev=1.1" },
+		{ href: "/Font/AlbertSans600.css?rev=1.1" },
+		{ href: "/Font/AlbertSans700.css?rev=1.1" },
+		{ href: "/Font/AlbertSans800.css?rev=1.1" },
+		{ href: "/Font/AlbertSans900.css?rev=1.1" },
 	]}
 	title={title}>
 	<div class="flex flex-col">

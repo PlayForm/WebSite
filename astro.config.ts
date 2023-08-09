@@ -9,7 +9,7 @@ import Worker from "astrojs-service-worker";
 export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
-	// outDir: "./Target",
+	outDir: "./Target",
 	site: "https://playform.cloud",
 	experimental: {
 		assets: true,

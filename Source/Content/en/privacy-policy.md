@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+Title: Privacy Policy
 ---
 
 -   [PRIVACY POLICY]

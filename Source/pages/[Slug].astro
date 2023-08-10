@@ -15,40 +15,40 @@ export const getStaticPaths = async () =>
 const Slug =
 	typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : "";
 
-const file = (await Astro.glob("./../Content/en/*.md")).filter(
+const File = (await Astro.glob("./../Content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>
 		page.file.indexOf(Slug) > -1 ||
 		(Slug == "gdpr" &&
 			page.file.indexOf("personal-data-protection-policy") > -1)
 );
 
-let content: string,
-	title = "";
+let Content: string,
+	Title = "";
 
-if (typeof file[0] !== "undefined") {
-	content = file[0].compiledContent();
-	title = file[0].frontmatter["title"];
+if (typeof File[0] !== "undefined") {
+	Content = File[0].compiledContent();
+	Title = File[0].frontmatter["Title"];
 } else {
-	content = "Not found.";
-	title = "404.";
+	Content = "Not found.";
+	Title = "404.";
 }
 ---
 
 <Base
-	fonts={[
+	Fonts={[
 		{ href: "/Font/AlbertSans500.css?rev=1.1" },
 		{ href: "/Font/AlbertSans600.css?rev=1.1" },
 		{ href: "/Font/AlbertSans700.css?rev=1.1" },
 		{ href: "/Font/AlbertSans800.css?rev=1.1" },
 		{ href: "/Font/AlbertSans900.css?rev=1.1" },
 	]}
-	title={title}>
+	{Title}>
 	<div class="flex flex-col">
 		<main class="flex grow justify-center">
 			<div class="flex grow self-center">
 				<div class="container sm:pb-36">
 					<article class="article">
-						<Fragment set:html={content} />
+						<Fragment set:html={Content} />
 					</article>
 				</div>
 			</div>

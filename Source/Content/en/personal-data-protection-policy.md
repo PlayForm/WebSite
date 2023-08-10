@@ -1,5 +1,5 @@
 ---
-title: Personal Data Protection Policy
+Title: Personal Data Protection Policy
 ---
 
 -   [PERSONAL DATA PROTECTION POLICY]

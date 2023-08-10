@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+Title: Terms of Service
 ---
 
 -   [TERMS OF SERVICE]

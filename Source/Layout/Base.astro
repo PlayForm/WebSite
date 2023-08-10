@@ -4,9 +4,9 @@ import Header from "@Component/Header.astro";
 import "@Style/Base.css";
 
 const {
-	fonts = [],
-	title = "Playform",
-	description = "Cloud Computing Simplified",
+	Fonts = [],
+	Title = "Playform",
+	Description = "Cloud Computing Simplified",
 } = Astro.props;
 
 const links = (hrefs = []) =>
@@ -30,9 +30,9 @@ const links = (hrefs = []) =>
 		</script>
 
 		<!-- Meta -->
-		<title>{title}</title>
+		<title>{Title}</title>
 		<meta charset="utf-8" />
-		<meta name="description" content={description} />
+		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<meta name="theme-color" content="#4d4d4d" />
 		<meta name="apple-mobile-web-app-capable" content="no" />
@@ -54,8 +54,8 @@ const links = (hrefs = []) =>
 			href="/site.webmanifest"
 			crossorigin="use-credentials"
 		/>
-		<link rel="stylesheet" type="text/css" href="/fonts/400.css" />
-		<link rel="stylesheet" type="text/css" href="/fonts/500.css" />
+		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans400.css" />
+		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans500.css" />
 
 		<style is:global>
 			@import "@Style/Global.css";
@@ -63,7 +63,7 @@ const links = (hrefs = []) =>
 
 		<slot name="styles" />
 
-		<Fragment set:html={links(fonts.map((font: any) => font.href))} />
+		<Fragment set:html={links(Fonts.map((font: any) => font.href))} />
 
 		<script>
 			import "@Script/SWUP";

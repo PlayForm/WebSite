@@ -1,9 +1,6 @@
 {
 	"background_color": "#ffffff",
-	"categories": [
-		"business",
-		"productivity"
-	],
+	"categories": ["business", "productivity"],
 	"description": "Cloud computing simplified",
 	"display": "minimal-ui",
 	"icons": [

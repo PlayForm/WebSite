@@ -4,21 +4,19 @@ import Header from "@Component/Header.astro";
 import "@Style/Base.css";
 
 const {
-	Fonts = [],
+	Font = [],
 	Title = "Playform",
 	Description = "Cloud Computing Simplified",
 } = Astro.props;
 
-const links = (hrefs = []) =>
-	hrefs
-		.map(
-			(href) => `<link
+const Link = (Link = []) =>
+	Link.map(
+		(href) => `<link
 			rel="stylesheet"
 			type="text/css"
 			href="${href}"
 		/>`
-		)
-		.join("\n");
+	).join("\n");
 ---
 
 <!DOCTYPE html>
@@ -63,7 +61,7 @@ const links = (hrefs = []) =>
 
 		<slot name="styles" />
 
-		<Fragment set:html={links(Fonts.map((font: any) => font.href))} />
+		<Fragment set:html={Link(Font.map((font: any) => font.href))} />
 
 		<script>
 			import "@Script/Swup";

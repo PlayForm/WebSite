@@ -14,6 +14,7 @@ body {
 		tabular-nums
 		text-black
 		antialiased
+		bg-white
 		dark:bg-black
 		dark:text-white
 		sm:subpixel-antialiased;
@@ -51,5 +52,19 @@ img {
 	h6 {
 		line-height: 0.7777777777777778 !important;
 		padding: 4px 0 !important;
+	}
+}
+
+body {
+	--swup-overlay-theme-color: white;
+	--swup-overlay-theme-duration: 0.2s;
+	--swup-overlay-theme-delay: 0s;
+	--swup-overlay-theme-scale: 1.2;
+	--swup-overlay-theme-skew: 0deg;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		--swup-overlay-theme-color: black;
 	}
 }

@@ -68,3 +68,10 @@ img {
 		padding: 4px 0 !important;
 	}
 }
+
+#visualization {
+	@apply absolute
+		-z-10
+		h-full
+		w-full;
+}

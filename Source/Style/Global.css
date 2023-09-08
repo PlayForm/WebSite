@@ -70,7 +70,7 @@ img {
 }
 
 #visualization {
-	@apply absolute
+	@apply fixed
 		-z-10
 		h-full
 		w-full;

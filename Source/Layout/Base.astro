@@ -158,6 +158,10 @@ const Link = (Link: string[] = []) =>
 	</head>
 	<body>
 		<div id="playform-web" class="flex grow flex-col">
+			<video id="visualization" autoplay></video>
+			<script>
+				import "@Script/Visualization";
+			</script>
 			<div id="header" class="grow">
 				<Header />
 			</div>

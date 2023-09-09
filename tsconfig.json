@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"lib": ["DOM"],
+		"lib": ["ESNext", "DOM"],
 		"baseUrl": "./",
 		"moduleResolution": "bundler",
 		"paths": {

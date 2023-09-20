@@ -19,7 +19,6 @@ export default defineConfig({
 		Prefetch(),
 		Rome({ Logger: 1 }),
 		Compress({ Logger: 1 }),
-		
 	],
 	vite: {
 		build: {

@@ -2,17 +2,7 @@
 	"name": "@website/playform_cloud",
 	"version": "0.0.1",
 	"private": false,
-<<<<<<< HEAD
 	"homepage": "https://github.com/Playform/Website#readme",
-=======
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton"
-	],
-	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
->>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/Playform/Website/issues"
 	},

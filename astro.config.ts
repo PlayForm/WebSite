@@ -3,8 +3,7 @@ export default (await import("astro/config")).defineConfig({
 	publicDir: "./Public",
 	outDir: "./Target",
 	site: "https://playform.cloud",
-	compressHTML: false,
-
+	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()

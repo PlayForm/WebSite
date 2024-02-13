@@ -52,7 +52,7 @@ respecting privacy of the concerned individuals.
 </tr>
 <tr class="even">
 <td>Approved by:</td>
-<td>Nikola Hristov, CEO of Playform ltd.</td>
+<td>Nikola R. Hristov, CEO of Playform ltd.</td>
 </tr>
 <tr class="odd">
 <td colspan="2">This policy shall be reviewed annually or each time when the changes in our data processing occur.</td>
@@ -81,7 +81,7 @@ respecting privacy of the concerned individuals.
     this Policy. The Privacy Manager must be involved in all projects at an
     early stage in order to take personal data protection aspects into account
     as early as the planning phase.\
-    The designated Privacy Manager at Playform ltd. is Nikola Hristov.
+    The designated Privacy Manager at Playform ltd. is Nikola R. Hristov.
 
 3.  **<span class="underline">Definitions.</span>**
 
@@ -1070,7 +1070,7 @@ exemptions.
 <td><p>Date</p></td>
 </tr>
 <tr class="even">
-<td>Nikola Hristov</td>
+<td>Nikola R. Hristov</td>
 <td>Briefed</td>
 <td>05.25.2018</td>
 </tr>

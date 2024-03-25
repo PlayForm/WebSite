@@ -76,7 +76,7 @@ Playform (together or individually “**Service**”) operated by Playform ltd.
 
 Our Privacy Policy also governs your use of our Service and explains how we
 collect, safeguard and disclose information that results from your use of our
-web pages. Please read it here https://Playform.Cloud/privacy-policy.
+web pages. Please read it here https://Playform.Cloud/Privacy-Policy.
 
 Your agreement with us includes these Terms and our Privacy Policy
 (“**Agreements**”). You acknowledge that you have read and understood

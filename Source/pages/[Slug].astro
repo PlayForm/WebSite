@@ -8,12 +8,20 @@ export const getStaticPaths = async () =>
 		"gdpr",
 		"privacy-policy",
 		"personal-data-protection-policy",
+		"Terms-Of-Service",
+		"Gdpr",
+		"Privacy-Policy",
+		"Personal-Data-Protection-Policy",
+		"TERMS-OF-SERVICE",
+		"GDPR",
+		"PRIVACY-POLICY",
+		"PERSONAL-DATA-PROTECTION-POLICY",
 	].map((Slug) => ({
 		params: { Slug },
 	}));
 
 const Slug =
-	typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : "";
+	(typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : "").toLowerCase();
 
 const File = (await Astro.glob("./../Content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>

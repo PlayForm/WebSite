@@ -1,5 +1,5 @@
-# ▶️ [playform.cloud]
+# ▶️ [Playform.Cloud]
 
-Playform.cloud main website.
+Playform.Cloud main website.
 
-[playform.cloud]: https://playform.cloud
+[Playform.Cloud]: https://Playform.Cloud

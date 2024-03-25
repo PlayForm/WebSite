@@ -474,8 +474,8 @@ consent.
         for handling the DSR from Playform employees.
 
     3.  All DSRs from the Users must be addressed at and answered from the
-        following e-mail address: dsr@playform.cloud. DSR from the employees can
-        be addressed directly to the HR manager or at dsr@playform.cloud.
+        following e-mail address: dsr@Playform.Cloud. DSR from the employees can
+        be addressed directly to the HR manager or at dsr@Playform.Cloud.
 
     4.  The responsible employee must answer to the DSR within one (1) month
         from receiving the request. If complying with the DSR takes more than

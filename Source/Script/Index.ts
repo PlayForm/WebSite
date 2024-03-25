@@ -20,5 +20,5 @@ document
       /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(Event.target.value)
         ? document.querySelector<HTMLFormElement>('[name="mc-embedded-subscribe-form"]')?.submit()
         : null;
-    }, 7000)
+    }, 5000)
   );

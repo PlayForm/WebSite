@@ -71,19 +71,19 @@ have just clicked our Terms of Service, please pause, grab a cup of coffee and
 carefully read the following pages. It will take you approximately 20 minutes.
 
 These Terms of Service (“**Terms**”, “**Terms of Service**”) govern your use of
-our web pages located at https://Playform.Cloud and our mobile application
+our web pages located at HTTPS://Playform.Cloud and our mobile application
 Playform (together or individually “**Service**”) operated by Playform ltd.
 
 Our Privacy Policy also governs your use of our Service and explains how we
 collect, safeguard and disclose information that results from your use of our
-web pages. Please read it here https://Playform.Cloud/Privacy-Policy.
+web pages. Please read it here HTTPS://Playform.Cloud/Privacy-Policy.
 
 Your agreement with us includes these Terms and our Privacy Policy
 (“**Agreements**”). You acknowledge that you have read and understood
 Agreements, and agree to be bound of them.
 
 If you do not agree with (or cannot comply with) Agreements, then you may not
-use the Service, but please let us know by emailing at support@Playform.Cloud so
+use the Service, but please let us know by emailing at Support@Playform.Cloud so
 we can try to find a solution. These Terms apply to all visitors, users and
 others who wish to access or use Service.
 
@@ -376,7 +376,7 @@ You can contact our Copyright Agent via email at dmca@Playform.Cloud
 
 ## Error Reporting and Feedback
 
-You may provide us either directly at support@Playform.Cloud or via third party
+You may provide us either directly at Support@Playform.Cloud or via third party
 sites and tools with information and feedback concerning errors, suggestions for
 improvements, ideas, problems, complaints, and other matters related to our
 Service (“**Feedback**”). You acknowledge and agree that:
@@ -527,7 +527,7 @@ READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM.
 
 Please send your feedback, comments, requests for technical support:
 
-By email: support@Playform.Cloud
+By email: Support@Playform.Cloud
 
 By phone number: +359876668093.
 

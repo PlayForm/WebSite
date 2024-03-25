@@ -2,4 +2,4 @@
 
 Playform.Cloud main website.
 
-[Playform.Cloud]: https://Playform.Cloud
+[Playform.Cloud]: HTTPS://Playform.Cloud

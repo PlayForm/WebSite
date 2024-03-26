@@ -58,10 +58,10 @@ Last updated: 02.11.2022 / February 11th 2022
 Welcome to **Playform ltd.**.
 
 **Playform ltd.** (“**us**”, “**we**”, or “**our**”) operates
-HTTPS://Playform.Cloud and Playform mobile application (hereinafter referred to
+https://playform.cloud and Playform mobile application (hereinafter referred to
 as “**Service**”).
 
-Our Privacy Policy governs your visit to HTTPS://Playform.Cloud and Playform
+Our Privacy Policy governs your visit to https://playform.cloud and Playform
 mobile application, and explains how we collect, safeguard and disclose
 information that results from your use of our Service.
 
@@ -76,7 +76,7 @@ together with the Privacy Policy constitutes your agreement with us
 
 ## Definitions
 
-**SERVICE** means the HTTPS://Playform.Cloud website and Playform mobile
+**SERVICE** means the https://playform.cloud website and Playform mobile
 application operated by **Playform ltd.**
 
 **PERSONAL DATA** means data about a living individual who can be identified

@@ -2,7 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://Playform.Cloud",
+	site: "https://playform.cloud",
 	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production"

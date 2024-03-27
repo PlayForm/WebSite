@@ -32,5 +32,8 @@ document.querySelector<HTMLInputElement>("#mce-EMAIL")?.addEventListener(
 
 document.querySelector<HTMLInputElement>("#mce-EMAIL")?.addEventListener(
 	"input",
-	Debounce(({ target }: InputEvent) => Spinner?.classList.remove("hidden"), 4000),
+	Debounce(
+		({ target }: InputEvent) => Spinner?.classList.remove("hidden"),
+		4000,
+	),
 );

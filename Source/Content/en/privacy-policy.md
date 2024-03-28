@@ -128,7 +128,7 @@ e. Usage Data
 We may use your Personal Data to contact you with newsletters, marketing or
 promotional materials and other information that may be of interest to you. You
 may opt out of receiving any, or all, of these communications from us by
-following the unsubscribe link or by emailing at Support@Playform.Cloud.
+following the unsubscribe link or by emailing at Support@playform.cloud.
 
 **Usage Data**
 
@@ -271,7 +271,7 @@ We aim to take reasonable steps to allow you to correct, amend, delete, or limit
 the use of your Personal Data.
 
 If you wish to be informed what Personal Data, we hold about you and if you want
-it to be removed from our systems, please email us at Support@Playform.Cloud.
+it to be removed from our systems, please email us at Support@playform.cloud.
 
 In certain circumstances, you have the following data protection rights:
 
@@ -324,7 +324,7 @@ c. users will be notified of any privacy policy changes on our Privacy Policy
 Page;
 
 d. users are able to change their personal information by emailing us at
-Support@Playform.Cloud.
+Support@playform.cloud.
 
 Our Policy on “Do Not Track” Signals:
 
@@ -390,7 +390,7 @@ you for exercising your rights.
 To exercise your California data protection rights described above, please send
 your request(s) by one of the following means:
 
-By email: Support@Playform.Cloud
+By email: Support@playform.cloud
 
 By phone number: +359876668093
 
@@ -482,7 +482,7 @@ Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: Support@Playform.Cloud.
+By email: Support@playform.cloud.
 
 By phone number: +359876668093.
 

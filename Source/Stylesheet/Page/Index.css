@@ -1,7 +1,9 @@
-h1 {
-	@apply mb-8
-		text-3xl
-		font-light
-		md:text-6xl
-		md:font-thin;
+#main {
+	h1 {
+		@apply mb-8
+			text-3xl
+			font-light
+			md:text-6xl
+			md:font-thin;
+	}
 }

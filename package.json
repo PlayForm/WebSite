@@ -2,6 +2,7 @@
 	"name": "@website/playform_cloud",
 	"version": "0.0.1",
 	"private": false,
+	
 	"homepage": "https://github.com/Playform/Website#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/Website/issues"

@@ -23,10 +23,10 @@
 	"dependencies": {
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.1.2",
-		"@playform/biome-astro": "0.0.3",
+		"@playform/format": "0.0.3",
 		"@playform/build": "0.0.1",
-		"@playform/compress-astro": "0.0.2",
-		"@playform/critters-astro": "0.0.2",
+		"@playform/compress": "0.0.2",
+		"@playform/inline": "0.0.2",
 		"@swup/body-class-plugin": "3.2.0",
 		"@swup/fade-theme": "2.0.0",
 		"@swup/head-plugin": "2.2.0",

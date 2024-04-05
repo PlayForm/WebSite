@@ -21,8 +21,8 @@ const Link = (Link: string[] = []) =>
 		(Link) => `<link rel="stylesheet" type="text/css" href="${Link}" />`
 	).join("\n");
 
-const { Head } = await import("astro-capo");
-const { ViewTransitions } = await import("astro:transitions");
+import { Head } from "astro-capo";
+import { ViewTransitions } from "astro:transitions";
 ---
 
 <!doctype html>

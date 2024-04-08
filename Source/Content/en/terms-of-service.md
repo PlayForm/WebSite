@@ -83,7 +83,7 @@ Your agreement with us includes these Terms and our Privacy Policy
 Agreements, and agree to be bound of them.
 
 If you do not agree with (or cannot comply with) Agreements, then you may not
-use the Service, but please let us know by emailing at Support@playform.cloud so
+use the Service, but please let us know by emailing at support@playform.cloud so
 we can try to find a solution. These Terms apply to all visitors, users and
 others who wish to access or use Service.
 
@@ -376,7 +376,7 @@ You can contact our Copyright Agent via email at dmca@playform.cloud
 
 ## Error Reporting and Feedback
 
-You may provide us either directly at Support@playform.cloud or via third party
+You may provide us either directly at support@playform.cloud or via third party
 sites and tools with information and feedback concerning errors, suggestions for
 improvements, ideas, problems, complaints, and other matters related to our
 Service (“**Feedback**”). You acknowledge and agree that:
@@ -527,7 +527,7 @@ READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM.
 
 Please send your feedback, comments, requests for technical support:
 
-By email: Support@playform.cloud
+By email: support@playform.cloud
 
 By phone number: +359876668093.
 

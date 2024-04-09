@@ -3,20 +3,15 @@ import Base from "@Layout/Base.astro";
 
 import "@Stylesheet/Component/Article.css";
 
+export const Capitalize = (Text: string) =>
+	Text.replace(/\b\w/g, (Text) => Text.toUpperCase());
+
 export const getStaticPaths = async () =>
 	[
 		"terms-of-service",
 		"gdpr",
 		"privacy-policy",
 		"personal-data-protection-policy",
-		"Terms-Of-Service",
-		"Gdpr",
-		"Privacy-Policy",
-		"Personal-Data-Protection-Policy",
-		"TERMS-OF-SERVICE",
-		"GDPR",
-		"PRIVACY-POLICY",
-		"PERSONAL-DATA-PROTECTION-POLICY",
 	].map((Slug) => ({
 		params: { Slug },
 	}));

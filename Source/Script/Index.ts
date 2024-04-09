@@ -23,17 +23,17 @@ document.querySelector<HTMLInputElement>("#mce-EMAIL")?.addEventListener(
 		/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(target?.value)
 			? document
 					.querySelector<HTMLFormElement>(
-						'[name="mc-embedded-subscribe-form"]',
+						'[name="mc-embedded-subscribe-form"]'
 					)
 					?.submit()
 			: null;
-	}, 5000),
+	}, 5000)
 );
 
 document.querySelector<HTMLInputElement>("#mce-EMAIL")?.addEventListener(
 	"input",
 	Debounce(
 		({ target }: InputEvent) => Spinner?.classList.remove("hidden"),
-		4000,
-	),
+		4000
+	)
 );

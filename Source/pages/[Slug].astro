@@ -12,12 +12,12 @@ export const getStaticPaths = async () =>
 		"Gdpr",
 		"Privacy Policy",
 		"Personal Data Protection Policy",
-		
+
 		"TERMS OF SERVICE",
 		"GDPR",
 		"PRIVACY POLICY",
 		"PERSONAL DATA PROTECTION POLICY",
-		
+
 		"terms of service",
 		"gdpr",
 		"privacy policy",
@@ -27,12 +27,12 @@ export const getStaticPaths = async () =>
 		"Gdpr",
 		"Privacy-Policy",
 		"Personal-Data-Protection-Policy",
-		
+
 		"TERMS-OF-SERVICE",
 		"GDPR",
 		"PRIVACY-POLICY",
 		"PERSONAL-DATA-PROTECTION-POLICY",
-		
+
 		"terms-of-service",
 		"gdpr",
 		"privacy-policy",
@@ -43,7 +43,9 @@ export const getStaticPaths = async () =>
 
 const Slug = (
 	typeof Astro.params["Slug"] === "string" ? Astro.params["Slug"] : ""
-).toLowerCase();
+)
+	.toLowerCase()
+	.replaceAll(" ", "-");
 
 const File = (await Astro.glob("./../Content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>

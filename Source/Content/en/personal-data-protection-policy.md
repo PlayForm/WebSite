@@ -1070,7 +1070,7 @@ exemptions.
 <td><p>Date</p></td>
 </tr>
 <tr class="even">
-<td>Nikola R. Hristov</td>
+<td>Nikola</td>
 <td>Briefed</td>
 <td>05.25.2018</td>
 </tr>

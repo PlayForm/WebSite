@@ -50,10 +50,6 @@ respecting privacy of the concerned individuals.
 <td><p>v. 1.0.</p>
 <p>February 11th 2022</p></td>
 </tr>
-<tr class="even">
-<td>Approved by:</td>
-<td>Nikola Hristov, CEO of Playform ltd.</td>
-</tr>
 <tr class="odd">
 <td colspan="2">This policy shall be reviewed annually or each time when the changes in our data processing occur.</td>
 </tr>

@@ -154,6 +154,12 @@ certain information.
 Tracking technologies are used such as beacons, tags and scripts to collect and
 track information and to improve and analyze our Service.
 
+Playform’s websites and online services may use “cookies.” Cookies enable you to
+use shopping carts and to personalize your experience on our sites, tell us
+which parts of our websites people have visited, help us measure the
+effectiveness of ads and web searches, and give us insights into user behavior
+so we can improve our communications and products.
+
 ## Use of Data
 
 **Playform ltd.** Uses the collected data for various purposes:

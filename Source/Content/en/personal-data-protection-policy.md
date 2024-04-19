@@ -77,7 +77,7 @@ respecting privacy of the concerned individuals.
     this Policy. The Privacy Manager must be involved in all projects at an
     early stage in order to take personal data protection aspects into account
     as early as the planning phase.\
-    The designated Privacy Manager at Playform ltd. is Nikola.
+    The designated Privacy Manager at Playform ltd. is Nikola R. Hristov <nikola@playform.cloud>.
 
 3.  **<span class="underline">Definitions.</span>**
 
@@ -1066,7 +1066,7 @@ exemptions.
 <td><p>Date</p></td>
 </tr>
 <tr class="even">
-<td>Nikola</td>
+<td>Nikola R. Hristov <nikola@playform.cloud></td>
 <td>Briefed</td>
 <td>05.25.2018</td>
 </tr>

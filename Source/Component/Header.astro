@@ -11,14 +11,14 @@ const Index = Astro.url.pathname === "/" ? "-1" : "";
 			tabindex={Index}>
 			<picture>
 				<source
-					srcset="/Image/logo.png, /Image/logo@2x.png 2x"
+					srcset="/Image/logo.png, /Image/Playform.svg"
 					media="(prefers-color-scheme: light)"
 				/>
 				<source
-					srcset="/Image/logo_dark.png, /Image/logo_dark@2x.png 2x"
+					srcset="/Image/logo_dark.png, /Image/Playform.svg"
 					media="(prefers-color-scheme: dark)"
 				/>
-				<img width="28" src="/Image/logo.png" alt="Playform" />
+				<img width="28" src="/Image/Playform.svg" alt="Playform" />
 			</picture>
 		</a>
 	</div>

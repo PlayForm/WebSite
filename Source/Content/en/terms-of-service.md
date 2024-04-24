@@ -66,13 +66,13 @@ Last updated: 02.11.2022 / February 11th 2022
 
 ## Introduction
 
-Welcome to Playform ltd. (“**Company**”, “**we**”, “**our**”, “**us**”)! As you
+Welcome to PlayForm ltd. (“**Company**”, “**we**”, “**our**”, “**us**”)! As you
 have just clicked our Terms of Service, please pause, grab a cup of coffee and
 carefully read the following pages. It will take you approximately 20 minutes.
 
 These Terms of Service (“**Terms**”, “**Terms of Service**”) govern your use of
 our web pages located at https://playform.cloud and our mobile application
-Playform (together or individually “**Service**”) operated by Playform ltd.
+PlayForm (together or individually “**Service**”) operated by PlayForm ltd.
 
 Our Privacy Policy also governs your use of our Service and explains how we
 collect, safeguard and disclose information that results from your use of our
@@ -141,37 +141,37 @@ or annual basis, depending on the type of subscription plan you select when
 purchasing a Subscription.
 
 At the end of each Billing Cycle, your Subscription will automatically renew
-under the exact same conditions unless you cancel it or Playform ltd. cancels
+under the exact same conditions unless you cancel it or PlayForm ltd. cancels
 it. You may cancel your Subscription renewal either through your online account
-management page or by contacting Playform ltd. customer support team.
+management page or by contacting PlayForm ltd. customer support team.
 
 A valid payment method, including credit card or PayPal, is required to process
-the payment for your subscription. You shall provide Playform ltd. with accurate
+the payment for your subscription. You shall provide PlayForm ltd. with accurate
 and complete billing information including full name, address, state, zip code,
 telephone number, and a valid payment method information. By submitting such
-payment information, you automatically authorize Playform ltd. to charge all
+payment information, you automatically authorize PlayForm ltd. to charge all
 Subscription fees incurred through your account to any such payment instruments.
 
-Should automatic billing fail to occur for any reason, Playform ltd. will issue
+Should automatic billing fail to occur for any reason, PlayForm ltd. will issue
 an electronic invoice indicating that you must proceed manually, within a
 certain deadline date, with the full payment corresponding to the billing period
 as indicated on the invoice.
 
 ## Free Trial
 
-Playform ltd. may, at its sole discretion, offer a Subscription with a free
+PlayForm ltd. may, at its sole discretion, offer a Subscription with a free
 trial for a limited period of time (“**Free Trial**”).
 
 You may be required to enter your billing information in order to sign up for
 Free Trial.
 
 If you do enter your billing information when signing up for Free Trial, you
-will not be charged by Playform ltd. until Free Trial has expired. On the last
+will not be charged by PlayForm ltd. until Free Trial has expired. On the last
 day of Free Trial period, unless you cancelled your Subscription, you will be
 automatically charged the applicable Subscription fees for the type of
 Subscription you have selected.
 
-At any time and without notice, Playform ltd. reserves the right to
+At any time and without notice, PlayForm ltd. reserves the right to
 
 a) modify Terms of Service of Free Trial offer, or
 
@@ -179,11 +179,11 @@ b) cancel such Free Trial offer.
 
 ## Fee Changes
 
-Playform ltd., in its sole discretion and at any time, may modify Subscription
+PlayForm ltd., in its sole discretion and at any time, may modify Subscription
 fees for the Subscriptions. Any Subscription fee change will become effective at
 the end of the then-current Billing Cycle.
 
-Playform ltd. will provide you with a reasonable prior notice of any change in
+PlayForm ltd. will provide you with a reasonable prior notice of any change in
 Subscription fees to give you an opportunity to terminate your Subscription
 before such change becomes effective.
 
@@ -222,11 +222,11 @@ You agree that this license includes the right for us to make your Content
 available to other users of Service, who may also use your Content subject to
 these Terms.
 
-Playform ltd. has the right but not the obligation to monitor and edit all
+PlayForm ltd. has the right but not the obligation to monitor and edit all
 Content provided by users.
 
 In addition, Content found on or through this Service are the property of
-Playform ltd. or used with permission. You may not distribute, modify, transmit,
+PlayForm ltd. or used with permission. You may not distribute, modify, transmit,
 reuse, download, repost, copy, or use said Content, whether in whole or in part,
 for commercial purposes or for personal gain, without express advance written
 permission from us.
@@ -323,11 +323,11 @@ content, or cancel orders in our sole discretion.
 ## Intellectual Property
 
 Service and its original content (excluding Content provided by users), features
-and functionality are and will remain the exclusive property of Playform ltd.
+and functionality are and will remain the exclusive property of PlayForm ltd.
 and its licensors. Service is protected by copyright, trademark, and other laws
 of the United States and foreign countries. Our trademarks and trade dress may
 not be used in connection with any product or service without the prior written
-consent of Playform ltd.
+consent of PlayForm ltd.
 
 ## Copyright Policy
 
@@ -400,14 +400,14 @@ purpose.
 ## Links To Other Web Sites
 
 Our Service may contain links to third party web sites or services that are not
-owned or controlled by Playform ltd.
+owned or controlled by PlayForm ltd.
 
-Playform ltd. has no control over, and assumes no responsibility for the
+PlayForm ltd. has no control over, and assumes no responsibility for the
 content, privacy policies, or practices of any third-party web sites or
 services. We do not warrant the offerings of any of these entities/individuals
 or their websites.
 
-YOU ACKNOWLEDGE AND AGREE THAT Playform ltd. SHALL NOT BE RESPONSIBLE OR LIABLE,
+YOU ACKNOWLEDGE AND AGREE THAT PlayForm ltd. SHALL NOT BE RESPONSIBLE OR LIABLE,
 DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY
 OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES
 AVAILABLE ON OR THROUGH ANY SUCH THIRD-PARTY WEB SITES OR SERVICES.

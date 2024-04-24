@@ -55,13 +55,13 @@ Last updated: 02.11.2022 / February 11th 2022
 
 ## Introduction
 
-Welcome to **Playform ltd.**.
+Welcome to **PlayForm ltd.**.
 
-**Playform ltd.** (“**us**”, “**we**”, or “**our**”) operates
-https://playform.cloud and Playform mobile application (hereinafter referred to
+**PlayForm ltd.** (“**us**”, “**we**”, or “**our**”) operates
+https://playform.cloud and PlayForm mobile application (hereinafter referred to
 as “**Service**”).
 
-Our Privacy Policy governs your visit to https://playform.cloud and Playform
+Our Privacy Policy governs your visit to https://playform.cloud and PlayForm
 mobile application, and explains how we collect, safeguard and disclose
 information that results from your use of our Service.
 
@@ -76,8 +76,8 @@ together with the Privacy Policy constitutes your agreement with us
 
 ## Definitions
 
-**SERVICE** means the https://playform.cloud website and Playform mobile
-application operated by **Playform ltd.**
+**SERVICE** means the https://playform.cloud website and PlayForm mobile
+application operated by **PlayForm ltd.**
 
 **PERSONAL DATA** means data about a living individual who can be identified
 from those data (or from those and other information either in our possession or
@@ -154,7 +154,7 @@ certain information.
 Tracking technologies are used such as beacons, tags and scripts to collect and
 track information and to improve and analyze our Service.
 
-Playform’s websites and online services may use “cookies.” Cookies enable you to
+PlayForm’s websites and online services may use “cookies.” Cookies enable you to
 use shopping carts and to personalize your experience on our sites, tell us
 which parts of our websites people have visited, help us measure the
 effectiveness of ads and web searches, and give us insights into user behavior
@@ -162,7 +162,7 @@ so we can improve our communications and products.
 
 ## Use of Data
 
-**Playform ltd.** Uses the collected data for various purposes:
+**PlayForm ltd.** Uses the collected data for various purposes:
 
 a. to provide and maintain our Service;
 
@@ -224,7 +224,7 @@ States and process it there.
 Your consent to this Privacy Policy followed by your submission of such
 information represents your agreement to that transfer.
 
-**Playform ltd.** Will take all the steps reasonably necessary to ensure that
+**PlayForm ltd.** Will take all the steps reasonably necessary to ensure that
 your data is treated securely and in accordance with this Privacy Policy and no
 transfer of your Personal Data will take place to an organization or a country
 unless there are adequate controls in place including the security of your data

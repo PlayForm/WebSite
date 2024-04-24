@@ -36,7 +36,7 @@ Title: Personal Data Protection Policy
 Effective date: 05.25.2018 / May 25th 2018\
 Last updated: 02.11.2022 / February 11th 2022
 
-We at Playform ltd. are committed to processing personal data securely and
+We at PlayForm ltd. are committed to processing personal data securely and
 respecting privacy of the concerned individuals.
 
 <table>
@@ -59,10 +59,10 @@ respecting privacy of the concerned individuals.
 ## Scope and Definitions
 
 1.  **<span class="underline">Scope.</span>** This Personal Data Protection
-    Policy (the “**Policy**”) describes Playform ltd. internal rules for
-    personal data processing and protection. The Policy applies to Playform
-    ltd., including Playform ltd. employees and contractors (“**we**”, “**us**”,
-    “**our**”, “**Playform**”). The management of each entity is ultimately
+    Policy (the “**Policy**”) describes PlayForm ltd. internal rules for
+    personal data processing and protection. The Policy applies to PlayForm
+    ltd., including PlayForm ltd. employees and contractors (“**we**”, “**us**”,
+    “**our**”, “**PlayForm**”). The management of each entity is ultimately
     responsible for the implementation of this policy, as well as to ensure, at
     entity level, there are adequate and effective procedures in place for its
     implementation and ongoing monitoring of its adherence. For the purposes of
@@ -70,14 +70,14 @@ respecting privacy of the concerned individuals.
     “**employees**”.
 
 2.  **<span class="underline">Privacy Manager.</span>** Privacy Manager is an
-    employee of Playform responsible for personal data protection compliance
-    within Playform (the “**Privacy Manager**”). The Privacy Manager is in
+    employee of PlayForm responsible for personal data protection compliance
+    within PlayForm (the “**Privacy Manager**”). The Privacy Manager is in
     charge of performing the obligations imposed by this Policy and supervising
     other employees, who subject to this Policy, regarding their adherence to
     this Policy. The Privacy Manager must be involved in all projects at an
     early stage in order to take personal data protection aspects into account
     as early as the planning phase.\
-    The designated Privacy Manager at Playform ltd. is Nikola R. Hristov <nikola@playform.cloud>.
+    The designated Privacy Manager at PlayForm ltd. is Nikola R. Hristov <nikola@playform.cloud>.
 
 3.  **<span class="underline">Definitions.</span>**
 
@@ -89,7 +89,7 @@ respecting privacy of the concerned individuals.
 <tbody>
 <tr class="odd">
 <td><strong>Competent Supervisory Authority</strong></td>
-<td>means a public authority that is responsible for regulating and supervising personal data protection with regards to activities of Playform.</td>
+<td>means a public authority that is responsible for regulating and supervising personal data protection with regards to activities of PlayForm.</td>
 </tr>
 <tr class="even">
 <td><strong>Data Breach</strong></td>
@@ -106,7 +106,7 @@ respecting privacy of the concerned individuals.
 </tr>
 <tr class="odd">
 <td><strong>Data Protection Laws</strong></td>
-<td>mean any laws and legal rules on personal data use and protection applicable to the activities of Playform, including, but not limited to the Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation, GDPR).</td>
+<td>mean any laws and legal rules on personal data use and protection applicable to the activities of PlayForm, including, but not limited to the Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation, GDPR).</td>
 </tr>
 <tr class="even">
 <td><strong>Data Subject Request (DSR)</strong></td>
@@ -114,7 +114,7 @@ respecting privacy of the concerned individuals.
 </tr>
 <tr class="odd">
 <td><strong>Data Subject</strong></td>
-<td>means a natural person, whose Personal Data we process. Data Subjects include but are not limited to users, website visitors, employees, contractors, and partners of Playform.</td>
+<td>means a natural person, whose Personal Data we process. Data Subjects include but are not limited to users, website visitors, employees, contractors, and partners of PlayForm.</td>
 </tr>
 <tr class="even">
 <td><strong>Personal Data</strong></td>
@@ -122,7 +122,7 @@ respecting privacy of the concerned individuals.
 </tr>
 <tr class="odd">
 <td><strong>Processing</strong></td>
-<td>means any operation or set of operations which is performed by Playform on Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</td>
+<td>means any operation or set of operations which is performed by PlayForm on Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</td>
 </tr>
 <tr class="even">
 <td><strong>Standard Contractual Clauses</strong></td>
@@ -130,20 +130,20 @@ respecting privacy of the concerned individuals.
 </tr>
 <tr class="odd">
 <td><strong>Third Party</strong></td>
-<td>means a natural or legal person, who accesses the Personal Data for further processing and is not an employee, member or corporate affiliate of Playform. This definition does not apply to natural persons, who provide services to Playform as contractors on a regular basis.</td>
+<td>means a natural or legal person, who accesses the Personal Data for further processing and is not an employee, member or corporate affiliate of PlayForm. This definition does not apply to natural persons, who provide services to PlayForm as contractors on a regular basis.</td>
 </tr>
 <tr class="even">
 <td><strong>User</strong></td>
-<td>means a Data Subject who uses our services provided on Playform website.</td>
+<td>means a Data Subject who uses our services provided on PlayForm website.</td>
 </tr>
 </tbody>
 </table>
 
 ## Data Processing Principles
 
-1.  Playform’s processing activities must be in line with the principles
+1.  PlayForm’s processing activities must be in line with the principles
     specified in this Section. The Privacy Manager must make sure that
-    Playform’s compliance documentation, as well as data processing activities,
+    PlayForm’s compliance documentation, as well as data processing activities,
     are compliant with the data protection principles.
 
 2.  We must process the Personal Data in accordance with the following
@@ -189,7 +189,7 @@ respecting privacy of the concerned individuals.
         document all relevant procedures, efforts, internal and external
         consultations on personal data protection including:
 
-        -   the fact of appointing a person responsible for Playform’s data
+        -   the fact of appointing a person responsible for PlayForm’s data
             protection compliance;
 
         -   where necessary, a record of a Data Processing Impact Assessment;
@@ -203,18 +203,18 @@ respecting privacy of the concerned individuals.
         -   assessment, implementation, and testing organizational and technical
             data protection measures.
 
-    2.  The Privacy Manager must maintain Playform’s Records of processing
+    2.  The Privacy Manager must maintain PlayForm’s Records of processing
         activities, which is an accountability document that describes personal
-        data processing activities of Playform, prepared in accordance with Art.
+        data processing activities of PlayForm, prepared in accordance with Art.
         30 of the GDPR (the “**Records of processing activities**”). The Records
         of processing activities must maintain, at least, the following
         information about each processing activity:
 
-        -   contact details of Playform, the EU Representative, and, where
+        -   contact details of PlayForm, the EU Representative, and, where
             applicable, of the Data Protection Officer;
 
         -   name of the activity, its purposes and legal basis along with, where
-            applicable, the legitimate interests of Playform;
+            applicable, the legitimate interests of PlayForm;
 
         -   data subjects and personal data categories concerned;
 
@@ -232,7 +232,7 @@ respecting privacy of the concerned individuals.
         -   where applicable, a reference to the record of the data breach
             occurred involving the personal data;
 
-        -   if Playform acts as a data processor, the information to be provided
+        -   if PlayForm acts as a data processor, the information to be provided
             includes the names and contact details of controllers, name and
             contact details of controller's representative (if applicable),
             categories of processing (activities), names of third countries or
@@ -250,12 +250,12 @@ respecting privacy of the concerned individuals.
         in this Section to process the Personal Data. If we do not have any of
         the described, we cannot collect or further process the Personal Data.
 
-    2.  If Playform is intended to use personal data for other purposes than
+    2.  If PlayForm is intended to use personal data for other purposes than
         those specified in the Records of processing activities, the Privacy
         Manager must evaluate, determine, and, if necessary, collect/record the
         appropriate legal basis for it.
 
-    3.  **Performance of the contract**. Where Playform has a contract with the
+    3.  **Performance of the contract**. Where PlayForm has a contract with the
         Data Subject, e.g., website’s Terms of Use or the employment contract,
         and the contract requires the provision of personal data from the Data
         Subject, the applicable legal ground will be the performance of the
@@ -283,7 +283,7 @@ respecting privacy of the concerned individuals.
     5.  **Legitimate interests**. We have the right to use personal data in our
         ‘legitimate interests’. The interests can include the purposes that are
         justified by the nature of our business activities, such as the
-        marketing analysis of personal data. For Playform to use legitimate
+        marketing analysis of personal data. For PlayForm to use legitimate
         interests as a legal ground for the processing, the Privacy Manager must
         make sure that:
 
@@ -300,7 +300,7 @@ respecting privacy of the concerned individuals.
             the processing), the Data Subject is provided with the opportunity
             to opt-out from the processing for the described legitimate
             interests.\
-            If at least one of the above conditions is not met by Playform, the Privacy
+            If at least one of the above conditions is not met by PlayForm, the Privacy
             Manager must choose and propose a different legal ground for the processing,
             such as consent.
 
@@ -320,7 +320,7 @@ respecting privacy of the concerned individuals.
         -   the Data Subjects are properly and timely informed about our
             obligations, scope, and conditions of personal data processing.
 
-Important: Where Playform has the law requirements of another country to process
+Important: Where PlayForm has the law requirements of another country to process
 personal data, the Privacy Manager must propose using another legal ground for
 the processing under Data Protection Laws, such as legitimate interests or
 consent.
@@ -335,14 +335,14 @@ consent.
         activities. The employees and contractors shall have access to the
         Personal Data only if they have the necessary credentials for it.
 
-    2.  Heads of the departments within Playform are responsible for their
+    2.  Heads of the departments within PlayForm are responsible for their
         employees’ access and processing of personal data. The heads must
         maintain the list of employees that are entitled to access and process
         personal data. The Privacy Manager shall have the right to review the
         list and, where necessary, request the amendments to meet the
         requirements of this Policy.
 
-    3.  Heads of the departments within Playform must ensure that the employees
+    3.  Heads of the departments within PlayForm must ensure that the employees
         under their supervision are aware of the Data Protection Laws and comply
         with the rules set in this Policy. To make sure our employees are able
         to comply with the data protection requirements, we must provide them
@@ -351,16 +351,16 @@ consent.
     4.  All employees accessing personal data shall keep strict confidentiality
         regarding the data they access. The employees that access personal data
         must use only those means (software, premises, etc.) for the processing
-        that were prescribed by Playform. The data must not be disclosed or
+        that were prescribed by PlayForm. The data must not be disclosed or
         otherwise made available out of the management instructions.
 
-    5.  The employees within their competence must assist Playform’s
+    5.  The employees within their competence must assist PlayForm’s
         representatives, including the Privacy Manager, in any efforts regarding
         compliance with Data Protection Laws and/or this Policy.
 
     6.  When an employee detects or believes there is suspicious activity, data
         breach, non-compliance with Data Protection Laws and/or this Policy, or
-        a DSR was not routed to the competent department within Playform, the
+        a DSR was not routed to the competent department within PlayForm, the
         employee must report such activity to the Privacy Manager.
 
     7.  Employees that are unsure about whether they can legitimately process or
@@ -374,13 +374,13 @@ consent.
 
 ## Third Parties
 
-1.  Before sharing personal data with any person outside of Playform, the
+1.  Before sharing personal data with any person outside of PlayForm, the
     Privacy Manager must ensure that this Third Party has an adequate data
     protection level and provide sufficient data protection guarantees in
     accordance with Data Protection Laws, including, but not limited to the
     processorship requirements (Art. 28 of the GDPR) and international transfers
     compliance (Section 5 of the GDPR). Where necessary, the Privacy Manager
-    must make sure that Playform enters into the appropriate data protection
+    must make sure that PlayForm enters into the appropriate data protection
     contract with the third party.
 
 2.  An employee can share personal data with third parties only if and to the
@@ -391,8 +391,8 @@ consent.
     Data, we must ensure that the Third Parties, with whom we shared the
     Personal Data, will fulfill these obligations accordingly.
 
-4.  Whenever Playform is engaged as a data processor on behalf of another
-    entity, the Privacy Manager must make sure Playform complies with the
+4.  Whenever PlayForm is engaged as a data processor on behalf of another
+    entity, the Privacy Manager must make sure PlayForm complies with the
     processorship obligation. In particular, the appropriate data processing
     agreement in accordance with the Data Protection Laws must be in place. The
     Privacy Manager must supervise the compliance with data processing
@@ -407,11 +407,11 @@ consent.
 
 1.  If we have the employees, contractors, corporate affiliates, or Data
     Processors outside of the EEA, and we transfer Personal Data to them for the
-    processing, the Privacy Manager must make sure Playform takes all necessary
+    processing, the Privacy Manager must make sure PlayForm takes all necessary
     and appropriate safeguards in accordance with Data Protection Laws.
 
 2.  The Privacy Manager must assess the safeguards available and propose to the
-    Playform’s management the appropriate safeguard for each international
+    PlayForm’s management the appropriate safeguard for each international
     transfer. The following regimes apply to the transfers of Personal Data
     outside of the EU:
 
@@ -441,7 +441,7 @@ consent.
 [^2]:
     https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en;
 
-3.  As a part of the information obligations, Playform must inform the Data
+3.  As a part of the information obligations, PlayForm must inform the Data
     Subjects that their Personal Data is being transferred to other countries,
     as well as provide them with the information about the safeguards used for
     the transfer. The information obligation is to be performed in accordance
@@ -461,13 +461,13 @@ consent.
 1.  **<span class="underline">Our Responsibilities.</span>**
 
     1.  Privacy Manager is ultimately responsible for handing all DSR received
-        by Playform. In the case of receiving any outstanding or unusual DSR,
+        by PlayForm. In the case of receiving any outstanding or unusual DSR,
         the employee must seek advice from the Privacy Manager before taking any
         action.
 
-    2.  DSR Team within Playform is responsible for handling DSRs from Playform
+    2.  DSR Team within PlayForm is responsible for handling DSRs from PlayForm
         Users on a daily basis. The Human Resources department is responsible
-        for handling the DSR from Playform employees.
+        for handling the DSR from PlayForm employees.
 
     3.  All DSRs from the Users must be addressed at and answered from the
         following e-mail address: dsr@playform.cloud. DSR from the employees can
@@ -488,7 +488,7 @@ consent.
             the personal data records and the data subject must be established.
 
         -   **Personal data**. The responsible employee must check whether
-            Playform has access to the personal data requested. If Playform does
+            PlayForm has access to the personal data requested. If PlayForm does
             not have the personal data under the control, the responsible
             employee must inform the Data Subject, and, if possible, instruct on
             the further steps on how to access the data in question;
@@ -506,12 +506,12 @@ consent.
             exercises of their rights are free of charge. If the responsible
             employee finds that the Data Subject exercises the rights in an
             excessive or unfound way (e.g., intended to harm or interrupt
-            Playform’s business activities), the employee must seek the advice
+            PlayForm’s business activities), the employee must seek the advice
             from the Privacy Manager, and, upon receiving of the latter, may
             either charge the Data Subject a reasonable fee or refuse to comply
             with the request;
 
-        -   **Documenting**. Whenever Playform receives the DSR, the Privacy
+        -   **Documenting**. Whenever PlayForm receives the DSR, the Privacy
             Manager must make sure that the data and time, Data Subject, type of
             the request and the decision made regarding it are well documented.
             In the case of refusing to comply with the request, the reasons for
@@ -523,11 +523,11 @@ consent.
 
 2.  **<span class="underline">The right to be informed.</span>**
 
-    1.  Playform must notify each Data Subject about the collection and further
+    1.  PlayForm must notify each Data Subject about the collection and further
         processing of the Personal Data.
 
     2.  The information to be provided includes: the name and contact details of
-        Playform; generic purposes of and the lawful basis for the data
+        PlayForm; generic purposes of and the lawful basis for the data
         collection and further processing; categories of Personal Data
         collected; recipients/categories of recipients; retention periods;
         information about data subject rights, including the right to complain
@@ -539,13 +539,13 @@ consent.
         case (except if we receive the direct request from the Data Subject).
 
     3.  The Users must be informed by the Privacy Policy accessible at
-        Playform’s website and provided during the user registration. The
+        PlayForm’s website and provided during the user registration. The
         employees and contractors must be informed by a standalone employee
         privacy statement, which explains the details described in p. 6.2.2 in a
         case-based manner, describing the particular purposes and activities.
 
-    4.  Playform must inform Data Subjects about data processing, including any
-        new processing activity introduced at Playform within the following
+    4.  PlayForm must inform Data Subjects about data processing, including any
+        new processing activity introduced at PlayForm within the following
         term:
 
         -   if personal data is collected from the data subject directly, the
@@ -693,7 +693,7 @@ consent.
     2.  To determine whether one of the p.6.9.1 conditions are met, the employee
         must seek advice from the Privacy Manager and check the applicable legal
         basis in the Records of processing activities. If the answer is
-        negative, the request can be refused by Playform, and the Privacy
+        negative, the request can be refused by PlayForm, and the Privacy
         Manager must decide whether to comply with the request on a voluntary
         basis.
 
@@ -723,7 +723,7 @@ consent.
             take further action for its fixation;
 
         -   make sure the processing activity is done in accordance with this
-            Policy, other Playform’s policies, as well as the Data Protection
+            Policy, other PlayForm’s policies, as well as the Data Protection
             Laws;
 
         -   add the processing activity to the Records of processing activities;
@@ -734,7 +734,7 @@ consent.
 2.  **<span class="underline">Data Processing Impact Assessment.</span>**
 
     1.  To make sure that our current or prospective processing activities do
-        not/will not violate the Data Subjects’ rights, Playform must, where
+        not/will not violate the Data Subjects’ rights, PlayForm must, where
         required by Data Protection Laws, conduct the Data Processing Impact
         Assessment (DPIA), a risk-based assessment of the processing and search
         for the measures to mitigate the risks. The Privacy Manager must make
@@ -820,19 +820,19 @@ consent.
     4.  Where the DPIA did not provide how to effectively address the risks, the
         Privacy Manager must initiate the consultation with the competent
         Supervisory Authority to receive help with searching for the solution.
-        In this case, Playform must not conduct the activity before the
+        In this case, PlayForm must not conduct the activity before the
         Supervisory Authority approves the processing activity in question.
 
 ## Data Retention
 
 1.  **<span class="underline">General Rule.</span>**
 
-    1.  The Privacy Manager must make sure that Playform clearly defined the
+    1.  The Privacy Manager must make sure that PlayForm clearly defined the
         data storage periods and/or criteria for determining the storage periods
         for each processing activity it has. The periods for each processing
         activity must be specified in the Records of processing activities.
 
-    2.  Each department within Playform must comply with the data storage
+    2.  Each department within PlayForm must comply with the data storage
         periods in accordance with the retention schedule provided in Records of
         processing activities. The Privacy Manager must supervise each
         department and make sure they comply with this requirement.
@@ -873,17 +873,17 @@ consent.
 
 ## Security
 
-1.  Each department within Playform shall take all appropriate technical and
+1.  Each department within PlayForm shall take all appropriate technical and
     organizational measures that protect against unauthorized, unlawful, and/or
     accidental access, destruction, modification, blocking, copying,
     distribution, as well as from other illegal actions of unauthorized persons
     regarding the personal data under their responsibility.
 
 2.  The employee responsible for the supervision after the security of personal
-    data within Playform shall be DSR Officer. This person implements the
+    data within PlayForm shall be DSR Officer. This person implements the
     guidelines and other specifications on data protection and information
-    security in his area of responsibility. He/she advises Playform management
-    on the planning and implementation of information security in Playform, and
+    security in his area of responsibility. He/she advises PlayForm management
+    on the planning and implementation of information security in PlayForm, and
     must be involved in all projects at an early stage in order to take
     security-related aspects into account as early as the planning phase.
 
@@ -891,23 +891,23 @@ consent.
 
 1.  **<span class="underline">Response Team.</span>**
 
-    1.  In case of revealing the Data Breach, CEO of Playform shall urgently
+    1.  In case of revealing the Data Breach, CEO of PlayForm shall urgently
         form the Data Breach Response Team (the “**Response Team**”), which will
         handle the Data Breach, notify the appropriate persons, and mitigate its
         risks.
 
     2.  The Response Team must be а multi-disciplinary group headed by CEO of
-        Playform and comprised of the Privacy Manager, privacy laws specialist
+        PlayForm and comprised of the Privacy Manager, privacy laws specialist
         (whether internal or external), and knowledgeable and skilled
-        information security specialists within Playform or outsourcing
+        information security specialists within PlayForm or outsourcing
         professionals, if necessary. The team must ensure that all employees and
         engaged contractors/processors adhere to this Policy and provide an
         immediate, effective, and skillful response to any suspected/alleged or
-        actual Data Breach affecting Playform.
+        actual Data Breach affecting PlayForm.
 
     3.  The potential members of the Response Team must be prepared to respond
         to а Data Breach. The Response Team shall perform all the
-        responsibilities of Playform mentioned in this Policy. The duties of the
+        responsibilities of PlayForm mentioned in this Policy. The duties of the
         Response Team are:
 
         -   to communicate the Data Breach to the competent Supervisory
@@ -916,11 +916,11 @@ consent.
         -   in case of high risk to the rights and freedoms of Data Subjects, to
             communicate the Data Breach to the Data Subject;
 
-        -   if Playform obtain data from any third party as a processor, and a
+        -   if PlayForm obtain data from any third party as a processor, and a
             Data Breach involves obtained data, to inform the third parties
             about the Data Breach;
 
-        -   to communicate Playform’s contractors or any other third parties
+        -   to communicate PlayForm’s contractors or any other third parties
             that process the Personal Data involved in the Data Breach; and
 
         -   to take all appropriate technical and organizational measures to
@@ -935,14 +935,14 @@ consent.
 
 2.  **<span class="underline">Notification to Supervisory Authority.</span>**
 
-    1.  Playform shall inform the Competent Supervisory Authority about the Data
+    1.  PlayForm shall inform the Competent Supervisory Authority about the Data
         Breach without undue delay and, where it is possible, not later than 72
         hours after having become aware of the Data Breach.
 
     2.  The Competent Supervisory Authority shall be determined by the residence
         of the Data Subjects, whose information was involved in the Data Breach.
         If the Data Breach concerns the Personal Data of Data Subjects from more
-        than one country, Playform shall inform all Competent Supervisory
+        than one country, PlayForm shall inform all Competent Supervisory
         Authorities.
 
     3.  To address the notification to the authority, the Response Team should
@@ -961,17 +961,17 @@ consent.
         -   the name and contact details of the **Response Team, Privacy Manager
             or, if not applicable, of the CEO**;
 
-        -   the likely consequences of the Data Breach. Explain Playform’s point
+        -   the likely consequences of the Data Breach. Explain PlayForm’s point
             of view on the purposes and possible further risks of the Data
             Breach. E.g., the Personal Data may be stolen for the further
             **sale, fraud activities or blackmailing the concerned Data
             Subjects**; and
 
-        -   **the measures taken or proposed** to be taken by Playform to
+        -   **the measures taken or proposed** to be taken by PlayForm to
             address the Data Breach, including, where appropriate, measures to
             mitigate its possible adverse effects.
 
-    5.  To file a notification, the Response Team should use Playform’s Data
+    5.  To file a notification, the Response Team should use PlayForm’s Data
         Breach Notification Form to the Supervisory Authority.
 
 3.  **<span class="underline">Notifications to Data Subjects.</span>**
@@ -991,7 +991,7 @@ consent.
             disclose the causes of the Data Breach, then this clause must not be
             mentioned;
 
-        -   the measures taken by Playform regarding the Data Breach, including
+        -   the measures taken by PlayForm regarding the Data Breach, including
             **security measures, internal investigations, and supervisory
             authority notice**;
 
@@ -1009,13 +1009,13 @@ consent.
     4.  **Exemptions**. We do not have to send the notification to the Data
         Subjects if any of the following conditions are met:
 
-        -   Playform has implemented appropriate technical and organizational
+        -   PlayForm has implemented appropriate technical and organizational
             protection measures, and those measures were applied to the Personal
             Data affected by the Data Breach, in particular, those that leave
             the Personal Data inaccessible to any person who is not authorized
             to access it, such as encryption;
 
-        -   Playform has taken subsequent measures which ensure that the high
+        -   PlayForm has taken subsequent measures which ensure that the high
             risk to the rights and freedoms of Data Subjects referred to in this
             section is no longer likely to materialize; or
 
@@ -1039,7 +1039,7 @@ exemptions.
 
     2.  In case of receiving the notification about the Data Breach from the
         Data Processor or other Third Parties that have access to the Personal
-        Data, CEO of Playform shall, in accordance with this Section:
+        Data, CEO of PlayForm shall, in accordance with this Section:
 
         -   form the Response Team;
 

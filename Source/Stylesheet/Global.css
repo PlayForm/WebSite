@@ -15,11 +15,11 @@ body {
 		flex-col
 		bg-white
 		tabular-nums
-		text-black
+		text-[#151515]
 		antialiased
 		sm:subpixel-antialiased
-		dark:bg-black
-		dark:text-white;
+		dark:bg-[#151515]
+		dark:text-[#eaeaea];
 
 	font-variant-ligatures: no-common-ligatures;
 

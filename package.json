@@ -12,7 +12,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "⛲ Source ⁄ 🚪 Open —",
+		"name": "🖋️ Source — 👐🏻 Open —",
 		"email": "Source/Open@PlayForm.Cloud",
 		"url": "HTTPS://PlayForm.Cloud"
 	},
@@ -23,7 +23,7 @@
 	"dependencies": {
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.1.4",
-		"@playform/build": "0.0.7",
+		"@playform/build": "0.0.8",
 		"@playform/compress": "0.0.3",
 		"@playform/format": "0.0.2",
 		"@playform/inline": "0.0.2",

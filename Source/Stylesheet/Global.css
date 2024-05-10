@@ -12,7 +12,6 @@ body {
 body {
 	@apply flex
 		flex-grow
-		
 		flex-col
 		bg-[#eaeaea]
 		tabular-nums
@@ -41,13 +40,13 @@ body {
 ::selection {
 	text-shadow: none;
 	@apply bg-amber-400
-		text-black;
+		text-[#151515];
 }
 
 @media (prefers-color-scheme: dark) {
 	*::selection,
 	::selection {
-		@apply bg-white
+		@apply bg-[#eaeaea]
 			text-amber-400;
 	}
 }

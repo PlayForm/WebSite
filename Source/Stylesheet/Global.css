@@ -12,8 +12,9 @@ body {
 body {
 	@apply flex
 		flex-grow
+		
 		flex-col
-		bg-white
+		bg-[#eaeaea]
 		tabular-nums
 		text-[#151515]
 		antialiased

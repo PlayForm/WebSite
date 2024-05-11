@@ -1,15 +1,18 @@
 ---
 const Index = Astro.url.pathname === "/" ? "-1" : "";
+
+// import PlayForm from "@Asset/PlayForm.svg?raw";
+import DarkPlayForm from "@Asset/Dark/PlayForm.svg?raw";
 ---
 
 <header class="Header">
-	<div class="container flex justify-around">
+	<div class="container flex justify-start">
 		<a
 			href="/"
 			title="PlayForm"
 			class="flex content-center items-center justify-center"
 			tabindex={Index}>
-			<picture>
+			<!-- <picture>
 				<source
 					srcset="/Image/PlayForm.svg?v=2"
 					media="(prefers-color-scheme: light)"
@@ -20,6 +23,12 @@ const Index = Astro.url.pathname === "/" ? "-1" : "";
 				/>
 				<img width="212" src="/Image/PlayForm.svg?v=2" alt="PlayForm" />
 			</picture>
+			 -->
+
+			<!-- <Fragment set:html={PlayForm} /> -->
+			<div class="hidden dark:inline">
+				<Fragment set:html={DarkPlayForm} />
+			</div>
 		</a>
 	</div>
 </header>

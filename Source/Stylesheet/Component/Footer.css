@@ -33,13 +33,13 @@
 			decoration-blue-600
 			decoration-2
 			outline-none
-			outline-offset-4
+			outline-offset-2
 			transition-all
 			duration-150
 			hover:text-blue-600
 			focus-visible:z-10
 			focus-visible:decoration-transparent
-			focus-visible:outline-4
+			focus-visible:outline-2
 			focus-visible:outline-blue-500
 			sm:text-sm;
 	}

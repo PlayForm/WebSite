@@ -51,7 +51,7 @@ const File = (await Astro.glob("./../Content/en/*.md")).filter(
 	(page: { file: string | string[] }) =>
 		page.file.indexOf(Slug) > -1 ||
 		(Slug == "gdpr" &&
-			page.file.indexOf("personal-data-protection-policy") > -1)
+			page.file.indexOf("personal-data-protection-policy") > -1),
 );
 
 let Content: string,

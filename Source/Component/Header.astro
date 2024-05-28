@@ -1,7 +1,7 @@
 ---
 const Index = Astro.url.pathname === "/" ? "-1" : "";
 
-// import PlayForm from "@Asset/PlayForm.svg?raw";
+import PlayForm from "@Asset/PlayForm.svg?raw";
 import DarkPlayForm from "@Asset/Dark/PlayForm.svg?raw";
 ---
 
@@ -25,7 +25,9 @@ import DarkPlayForm from "@Asset/Dark/PlayForm.svg?raw";
 			</picture>
 			 -->
 
-			<!-- <Fragment set:html={PlayForm} /> -->
+			<div class="inline dark:hidden">
+				<Fragment set:html={PlayForm} />
+			</div>
 			<div class="hidden dark:inline">
 				<Fragment set:html={DarkPlayForm} />
 			</div>

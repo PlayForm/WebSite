@@ -2,10 +2,7 @@
 	"name": "@website/playform_cloud",
 	"version": "0.0.1",
 	"private": false,
-	"keywords": [
-		"playform",
-		"website"
-	],
+	"keywords": ["playform", "website"],
 	"homepage": "HTTPS://GitHub.Com/PlayForm/Website#readme",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/PlayForm/Website/issues"

@@ -39,6 +39,7 @@ body {
 *::selection,
 ::selection {
 	text-shadow: none;
+
 	@apply bg-amber-400
 		text-[#151515];
 }

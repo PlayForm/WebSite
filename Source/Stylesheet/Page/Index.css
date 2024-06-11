@@ -1,13 +1,5 @@
 #main {
 	h1 {
-		@apply mb-8
-			text-3xl
-			font-light
-			md:text-6xl
-			md:font-thin;
-
-		border: 6px solid white;
-		padding: 30px !important;
-		box-shadow: 6px 6px 0 #7f7f7f;
+		@apply mb-8 text-3xl font-light md:text-6xl md:font-thin;
 	}
 }

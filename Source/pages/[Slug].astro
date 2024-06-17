@@ -8,35 +8,27 @@ export const Capitalize = (Text: string) =>
 
 export const getStaticPaths = async () =>
 	[
-		"Terms Of Service",
-		"Gdpr",
-		"Privacy Policy",
-		"Personal Data Protection Policy",
-
-		"TERMS OF SERVICE",
 		"GDPR",
-		"PRIVACY POLICY",
+		"Gdpr",
 		"PERSONAL DATA PROTECTION POLICY",
-
-		"terms of service",
-		"gdpr",
-		"privacy policy",
-		"personal data protection policy",
-
-		"Terms-Of-Service",
-		"Gdpr",
-		"Privacy-Policy",
-		"Personal-Data-Protection-Policy",
-
-		"TERMS-OF-SERVICE",
-		"GDPR",
-		"PRIVACY-POLICY",
 		"PERSONAL-DATA-PROTECTION-POLICY",
-
-		"terms-of-service",
+		"PRIVACY POLICY",
+		"PRIVACY-POLICY",
+		"Personal Data Protection Policy",
+		"Personal-Data-Protection-Policy",
+		"Privacy Policy",
+		"Privacy-Policy",
+		"TERMS OF SERVICE",
+		"TERMS-OF-SERVICE",
+		"Terms Of Service",
+		"Terms-Of-Service",
 		"gdpr",
-		"privacy-policy",
+		"personal data protection policy",
 		"personal-data-protection-policy",
+		"privacy policy",
+		"privacy-policy",
+		"terms of service",
+		"terms-of-service",
 	].map((Slug) => ({
 		params: { Slug },
 	}));

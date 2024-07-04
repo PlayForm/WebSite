@@ -73,6 +73,14 @@ import { ViewTransitions } from "astro:transitions";
 			@import "@Stylesheet/Global.css";
 		</style>
 
+		<style is:global>
+			@import "@Stylesheet/Test.css";
+		</style>
+
+		<style is:global>
+			@import "@Stylesheet/Test2.css";
+		</style>
+
 		<slot name="styles" />
 
 		<Fragment set:html={Link(Font.map((Font: any) => Font))} />

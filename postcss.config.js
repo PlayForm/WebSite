@@ -1,15 +1,17 @@
-export default {
+// @ts-nocheck
+module.exports = {
 	plugins: [
-		(await import("postcss-import")).default(),
-		(await import("postcss-url")).default(),
-		(await import("tailwindcss")).default("./tailwind.config.js"),
-		(await import("postcss-combine-media-query")).default(),
-		(await import("postcss-combine-duplicated-selectors")).default({
+		require("postcss-import"),
+		require("postcss-url"),
+		require("tailwindcss/nesting"),
+		require("tailwindcss")("./tailwind.config.js"),
+		require("postcss-combine-media-query"),
+		require("postcss-combine-duplicated-selectors")({
 			removeDuplicatedProperties: true,
 			removeDuplicatedValues: false,
 		}),
-		(await import("autoprefixer")),
-		(await import("cssnano")).default({ preset: "advanced" }),
-		(await import("postcss-reporter")).default(),
+		require("autoprefixer"),
+		require("cssnano")({ preset: "advanced" }),
+		require("postcss-reporter"),
 	],
 };

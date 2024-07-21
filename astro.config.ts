@@ -27,7 +27,7 @@ export default (await import("astro/config")).defineConfig({
 		},
 		css: {
 			devSourcemap: true,
-			transformer: "lightningcss",
+			transformer: "postcss",
 		},
 	},
 }) as typeof defineConfig;

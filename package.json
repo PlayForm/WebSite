@@ -1,7 +1,7 @@
 {
 	"name": "@website/playform_cloud",
 	"version": "0.0.1",
-	"private": false,
+	"private": true,
 	"keywords": [
 		"playform",
 		"website"
@@ -60,7 +60,7 @@
 		"zod": "*"
 	},
 	"publishConfig": {
-		"access": "public",
+		"access": "restricted",
 		"provenance": true
 	}
 }

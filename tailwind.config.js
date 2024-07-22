@@ -14,7 +14,7 @@ export default {
 		},
 		extend: {
 			transitionTimingFunction: {
-				apple: "cubic-bezier(0.25, 0.1, 0.25, 1)",
+				apple: "cubic-bezier(0.21, 0.1, 0.21, 1)",
 			},
 			fontFamily: {
 				sans: ["Albert Sans", ...defaultTheme.fontFamily.sans],

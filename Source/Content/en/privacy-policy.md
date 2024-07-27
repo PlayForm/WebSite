@@ -12,12 +12,11 @@ Title: Privacy Policy
     -   [Transfer of Data]
     -   [Disclosure of Data]
     -   [Security of Data]
-    -   [Your Data Protection Rights Under General Data Protection Regulation
-        (GDPR)]
-    -   [Your Data Protection Rights under the California Privacy Protection Act
-        (CalOPPA)]
-    -   [Your Data Protection Rights under the California Consumer Privacy Act
-        (CCPA)]
+    -   [Your Data Protection Rights Under General Data Protection Regulation (GDPR)]
+    -   [Your Data Protection Rights under the California Privacy Protection
+        Act (CalOPPA)]
+    -   [Your Data Protection Rights under the California Consumer Privacy
+        Act (CCPA)]
     -   [Service Providers]
     -   [Payments]
     -   [Links to Other Sites]

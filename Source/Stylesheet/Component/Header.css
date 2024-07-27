@@ -1,7 +1,6 @@
 .Header {
 	.container {
-		@apply px-5
-			py-5;
+		@apply px-5 py-5;
 	}
 
 	a {
@@ -9,14 +8,6 @@
 		width: 20px;
 		height: 20px;
 
-		@apply ease-apple
-			m-1
-			rounded-full
-			outline-none
-			outline-offset-2
-			transition-all
-			duration-150
-			focus-visible:outline-2
-			focus-visible:outline-green-500;
+		@apply ease-apple m-1 rounded-full outline-none outline-offset-2 transition-all duration-150 focus-visible:outline-2 focus-visible:outline-green-500;
 	}
 }

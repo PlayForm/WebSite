@@ -77,7 +77,8 @@ respecting privacy of the concerned individuals.
     this Policy. The Privacy Manager must be involved in all projects at an
     early stage in order to take personal data protection aspects into account
     as early as the planning phase.\
-    The designated Privacy Manager at PlayForm ltd. is Nikola Hristov <Nikola@PlayForm.Cloud>.
+    The designated Privacy Manager at PlayForm ltd. is Nikola Hristov
+    <Nikola@PlayForm.Cloud>.
 
 3.  **<span class="underline">Definitions.</span>**
 
@@ -300,9 +301,9 @@ respecting privacy of the concerned individuals.
             the processing), the Data Subject is provided with the opportunity
             to opt-out from the processing for the described legitimate
             interests.\
-            If at least one of the above conditions is not met by PlayForm, the Privacy
-            Manager must choose and propose a different legal ground for the processing,
-            such as consent.
+            If at least one of the above conditions is not met by PlayForm, the
+            Privacy Manager must choose and propose a different legal ground for
+            the processing, such as consent.
 
     6.  **Legal Compliance and Public Interest**. Besides the grounds specified
         afore, we might be requested by the laws of the European Union or laws
@@ -1154,7 +1155,8 @@ WebSite: https://www.uoou.cz
 
 Art 29 WP Member: Ms. Ivana JANŮ, President of the Office for Personal Data
 Protection\
-Art 29 WP Alternate Member: Mr. Ivan PROCHÁZKA, Adviser to the President of the Office
+Art 29 WP Alternate Member: Mr. Ivan PROCHÁZKA, Adviser to the President of the
+Office
 
 **Denmark**
 
@@ -1168,8 +1170,8 @@ WebSite: https://www.datatilsynet.dk
 
 Art 29 WP Member: Ms. Cristina Angela GULISANO, Director, Danish Data Protection
 Agency (Datatilsynet)\
-Art 29 WP Alternate Member: Mr. Peter FOGH KNUDSEN, Head of International Division
-at the Danish Data Protection Agency (Datatilsynet)
+Art 29 WP Alternate Member: Mr. Peter FOGH KNUDSEN, Head of International
+Division at the Danish Data Protection Agency (Datatilsynet)
 
 **Estonia**
 
@@ -1228,8 +1230,8 @@ https://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html
 
 Art 29 WP Member: Ms. Andrea VOSSHOFF, Federal Commissioner for Freedom of
 Information\
-Art 29 WP Alternate Member: Prof. Dr. Johannes CASPAR, representative of the federal
-states
+Art 29 WP Alternate Member: Prof. Dr. Johannes CASPAR, representative of the
+federal states
 
 **Greece**
 
@@ -1267,8 +1269,8 @@ E-mail: info@dataprotection.ie\
 WebSite: https://www.dataprotection.ie
 
 Art 29 WP Member: Ms. Helen DIXON, Data Protection Commissioner\
-Art 29 WP Alternate Members: Mr. John O'DWYER, Deputy Commissioner; Mr. Dale SUNDERLAND,
-Deputy Commissioner
+Art 29 WP Alternate Members: Mr. John O'DWYER, Deputy Commissioner; Mr. Dale
+SUNDERLAND, Deputy Commissioner
 
 **Italy**
 
@@ -1307,8 +1309,8 @@ WebSite: https://www.ada.lt
 
 Art 29 WP Member: Mr. Raimondas Andrijauskas, Director of the State Data
 Protection Inspectorate\
-Art 29 WP Alternate Member: Ms. Neringa KAKTAVIČIŪTĖ-MICKIENĖ, Head of Complaints
-Investigation and International Cooperation Division
+Art 29 WP Alternate Member: Ms. Neringa KAKTAVIČIŪTĖ-MICKIENĖ, Head of
+Complaints Investigation and International Cooperation Division
 
 **Luxembourg**
 
@@ -1388,8 +1390,8 @@ WebSite: https://www.dataprotection.ro
 
 Art 29 WP Member: Ms. Ancuţa Gianina OPRE, President of the National Supervisory
 Authority for Personal Data Processing\
-Art 29 WP Alternate Member: Ms. Alina SAVOIU, Head of the Legal and Communication
-Department
+Art 29 WP Alternate Member: Ms. Alina SAVOIU, Head of the Legal and
+Communication Department
 
 **Slovakia**
 
@@ -1490,7 +1492,8 @@ WebSite: https://www.datatilsynet.no
 **Switzerland**
 
 Data Protection and Information Commissioner of Switzerland\
-Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter Mr. Adrian Lobsiger\
+Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter Mr. Adrian
+Lobsiger\
 Feldeggweg 1\
 3003 Bern\
 Tel. +41 58 462 43 95; Fax +41 58 462 99 96\

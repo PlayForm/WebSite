@@ -1,4 +1,4 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+import { fontFamily } from "tailwindcss/defaultTheme";
 
 export default {
 	content: [
@@ -17,7 +17,7 @@ export default {
 				apple: "cubic-bezier(0.21, 0.1, 0.21, 1)",
 			},
 			fontFamily: {
-				sans: ["Albert Sans", ...defaultTheme.fontFamily.sans],
+				sans: ["Albert Sans", ...fontFamily.sans],
 			},
 			typography: {
 				DEFAULT: {

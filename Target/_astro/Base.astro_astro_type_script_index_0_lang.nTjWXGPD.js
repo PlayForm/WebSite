@@ -19,7 +19,8 @@ const d = "modulepreload",
 					const t = document.createElement("link");
 					if (
 						((t.rel = i ? "stylesheet" : d),
-						i || ((t.as = "script"), (t.crossOrigin = "")),
+						i || (t.as = "script"),
+						(t.crossOrigin = ""),
 						(t.href = e),
 						n && t.setAttribute("nonce", n),
 						document.head.appendChild(t),
@@ -64,4 +65,4 @@ const d = "modulepreload",
 	appId: "1:541150662775:web:574599325594e05ae7f672",
 	measurementId: "G-RFLGQF2GPJ",
 });
-//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.BrD4Dipd.js.map
+//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.nTjWXGPD.js.map

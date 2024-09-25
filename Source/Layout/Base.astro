@@ -5,7 +5,7 @@ import Header from "@Component/Header.astro";
 import "@Stylesheet/Base.css";
 
 import { Head } from "astro-capo";
-import { ViewTransitions } from "astro:transitions";
+// import { ViewTransitions } from "astro:transitions";
 
 const {
 	Font = [],
@@ -77,9 +77,9 @@ const Link = (Link: string[] = []) =>
 
 		<Fragment set:html={Link(Font.map((Font: any) => Font))} />
 
-		<script>
+		<!-- <script>
 			import "@Script/swup";
-		</script>
+		</script> -->
 
 		<slot name="scripts" />
 
@@ -131,7 +131,7 @@ const Link = (Link: string[] = []) =>
 		/>
 		<meta name="theme-color" content="#eaeaea" />
 
-		<ViewTransitions />
+		<!-- <ViewTransitions /> -->
 	</Head>
 	<body class="flex grow flex-col">
 		<div id="header" class="grow">

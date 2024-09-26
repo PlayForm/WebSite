@@ -16,10 +16,4 @@
 	.icon {
 		@apply h-5 w-5;
 	}
-
-	@media (prefers-color-scheme: dark) {
-		a {
-			--text-shadow-color: #151515;
-		}
-	}
 }

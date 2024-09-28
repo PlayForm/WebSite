@@ -1,5 +1,5 @@
 .article {
-	@apply prose prose-slate mx-auto dark:prose-invert prose-h1:font-[#151515];
+	@apply prose prose-slate prose-h1:font-[#151515] mx-auto;
 
 	.data-footnote-backref {
 		@apply font-sans no-underline;
@@ -8,7 +8,7 @@
 	a,
 	.underline {
 		text-underline-position: under;
-		--text-shadow-color: #eaeaea;
+		--text-shadow-color: theme("colors.white");
 		text-shadow:
 			-1px 1px var(--text-shadow-color),
 			-1px 2px var(--text-shadow-color),

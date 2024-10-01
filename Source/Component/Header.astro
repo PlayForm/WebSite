@@ -1,8 +1,8 @@
 ---
-const Index = Astro.url.pathname === "/" ? "-1" : "";
-
-import PlayForm from "@Asset/PlayForm.svg?raw";
 import DarkPlayForm from "@Asset/Dark/PlayForm.svg?raw";
+import PlayForm from "@Asset/PlayForm.svg?raw";
+
+const Index = Astro.url.pathname === "/" ? "-1" : "";
 ---
 
 <header class="Header">
@@ -12,11 +12,8 @@ import DarkPlayForm from "@Asset/Dark/PlayForm.svg?raw";
 			title="PlayForm"
 			class="flex content-center items-center justify-center"
 			tabindex={Index}>
-			<div class="inline dark:hidden">
+			<div class="inline">
 				<Fragment set:html={PlayForm} />
-			</div>
-			<div class="hidden dark:inline">
-				<Fragment set:html={DarkPlayForm} />
 			</div>
 		</a>
 	</div>

@@ -2,27 +2,28 @@
 Title: Privacy Policy
 ---
 
--   [PRIVACY POLICY]
-    -   [Introduction]
-    -   [Definitions]
-    -   [Information Collection and Use]
-    -   [Types of Data Collected]
-    -   [Use of Data]
-    -   [Retention of Data]
-    -   [Transfer of Data]
-    -   [Disclosure of Data]
-    -   [Security of Data]
-    -   [Your Data Protection Rights Under General Data Protection Regulation (GDPR)]
-    -   [Your Data Protection Rights under the California Privacy Protection
-        Act (CalOPPA)]
-    -   [Your Data Protection Rights under the California Consumer Privacy
-        Act (CCPA)]
-    -   [Service Providers]
-    -   [Payments]
-    -   [Links to Other Sites]
-    -   [Children's Privacy]
-    -   [Changes to This Privacy Policy]
-    -   [Contact Us]
+- [PRIVACY POLICY]
+    - [Introduction]
+    - [Definitions]
+    - [Information Collection and Use]
+    - [Types of Data Collected]
+    - [Use of Data]
+    - [Retention of Data]
+    - [Transfer of Data]
+    - [Disclosure of Data]
+    - [Security of Data]
+    - [Your Data Protection Rights Under General Data Protection Regulation
+      (GDPR)]
+    - [Your Data Protection Rights under the California Privacy Protection Act
+      (CalOPPA)]
+    - [Your Data Protection Rights under the California Consumer Privacy Act
+      (CCPA)]
+    - [Service Providers]
+    - [Payments]
+    - [Links to Other Sites]
+    - [Children's Privacy]
+    - [Changes to This Privacy Policy]
+    - [Contact Us]
 
 [privacy policy]: #privacy-policy
 [introduction]: #introduction
@@ -57,8 +58,8 @@ Last updated: 02.11.2022 / February 11th 2022
 Welcome to **PlayForm ltd.**.
 
 **PlayForm ltd.** (“**us**”, “**we**”, or “**our**”) operates
-HTTPS://PlayForm.LTD and PlayForm mobile application (hereinafter referred to
-as “**Service**”).
+HTTPS://PlayForm.LTD and PlayForm mobile application (hereinafter referred to as
+“**Service**”).
 
 Our Privacy Policy governs your visit to HTTPS://PlayForm.LTD and PlayForm
 mobile application, and explains how we collect, safeguard and disclose

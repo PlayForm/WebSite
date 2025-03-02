@@ -2,33 +2,33 @@
 Title: Terms of Service
 ---
 
--   [TERMS OF SERVICE]
-    -   [Introduction]
-    -   [Communications]
-    -   [Purchases]
-    -   [Contests, Sweepstakes and Promotions]
-    -   [Subscriptions]
-    -   [Free Trial]
-    -   [Fee Changes]
-    -   [Refunds]
-    -   [Content]
-    -   [Prohibited Uses]
-    -   [No Use by Minors]
-    -   [Accounts]
-    -   [Intellectual Property]
-    -   [Copyright Policy]
-    -   [DMCA Notice and Procedure for Copyright Infringement Claims]
-    -   [Error Reporting and Feedback]
-    -   [Links To Other Web Sites]
-    -   [Disclaimer Of Warranty]
-    -   [Limitation Of Liability]
-    -   [Termination]
-    -   [Governing Law]
-    -   [Changes To Service]
-    -   [Amendments To Terms]
-    -   [Waiver And Severability]
-    -   [Acknowledgement]
-    -   [Contact Us]
+- [TERMS OF SERVICE]
+    - [Introduction]
+    - [Communications]
+    - [Purchases]
+    - [Contests, Sweepstakes and Promotions]
+    - [Subscriptions]
+    - [Free Trial]
+    - [Fee Changes]
+    - [Refunds]
+    - [Content]
+    - [Prohibited Uses]
+    - [No Use by Minors]
+    - [Accounts]
+    - [Intellectual Property]
+    - [Copyright Policy]
+    - [DMCA Notice and Procedure for Copyright Infringement Claims]
+    - [Error Reporting and Feedback]
+    - [Links To Other Web Sites]
+    - [Disclaimer Of Warranty]
+    - [Limitation Of Liability]
+    - [Termination]
+    - [Governing Law]
+    - [Changes To Service]
+    - [Amendments To Terms]
+    - [Waiver And Severability]
+    - [Acknowledgement]
+    - [Contact Us]
 
 [terms of service]: #terms-of-service
 [introduction]: #introduction
@@ -338,10 +338,10 @@ entity.
 
 If you are a copyright owner, or authorized on behalf of one, and you believe
 that the copyrighted work has been copied in a way that constitutes copyright
-infringement, please submit your claim via email to dmca@PlayForm.LTD, with
-the subject line: “**Copyright Infringement**” and include in your claim a
-detailed description of the alleged Infringement as detailed below, under “DMCA
-Notice and Procedure for Copyright Infringement Claims”
+infringement, please submit your claim via email to dmca@PlayForm.LTD, with the
+subject line: “**Copyright Infringement**” and include in your claim a detailed
+description of the alleged Infringement as detailed below, under “DMCA Notice
+and Procedure for Copyright Infringement Claims”
 
 You may be held accountable for damages (including costs and attorneys' fees)
 for misrepresentation or bad-faith claims on the infringement of any Content

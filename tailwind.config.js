@@ -28,7 +28,7 @@ export default {
 						},
 						li: {
 							"&::marker": {
-								color: theme("colors.red.500"),
+								color: theme("colors.red.950"),
 							},
 						},
 					},

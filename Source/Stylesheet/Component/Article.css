@@ -11,7 +11,7 @@
 	}
 
 	a {
-		@apply ease-Ease break-all outline-none outline-offset-2 transition-all duration-150 hover:text-blue-600 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-500;
+		@apply ease-Ease break-all outline-none outline-offset-2 transition-all duration-150 hover:text-blue-950 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-950;
 	}
 
 	ul + h1 {

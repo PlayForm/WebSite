@@ -31,6 +31,24 @@ export default {
 								color: theme("colors.red.950"),
 							},
 						},
+						h1: {
+							color: theme("colors.blue.950"),
+						},
+						h2: {
+							color: theme("colors.blue.950"),
+						},
+						h3: {
+							color: theme("colors.blue.950"),
+						},
+						h4: {
+							color: theme("colors.blue.950"),
+						},
+						h5: {
+							color: theme("colors.blue.950"),
+						},
+						h6: {
+							color: theme("colors.blue.950"),
+						},
 					},
 				},
 			}),

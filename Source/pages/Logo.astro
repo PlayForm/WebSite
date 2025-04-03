@@ -1,16 +1,5 @@
 ---
-import Matrix from "@Function/Matrix.js";
 import Layout from "@Layout/Base.astro";
-
-console.log(
-	Matrix(
-		await (
-			await import("node:fs/promises")
-		).readFile("./Public/Bulgaria.svg", {
-			encoding: "utf-8",
-		}),
-	),
-);
 ---
 
 <Layout>

@@ -21,11 +21,7 @@
 		"prepublishOnly": "astro build"
 	},
 	"dependencies": {
-<<<<<<< HEAD
 		"@astrojs/sitemap": "3.3.1",
-=======
-		"@astrojs/sitemap": "3.3.0",
->>>>>>> df433dcd458fe02a55027eca82ff611f7d02e38e
 		"@astrojs/solid-js": "5.0.9",
 		"@playform/build": "0.2.3",
 		"@playform/compress": "0.1.9",
@@ -41,7 +37,7 @@
 		"cssnano": "7.0.6",
 		"cssnano-preset-advanced": "7.0.6",
 		"dotenv": "16.5.0",
-		"firebase": "11.6.0",
+		"firebase": "11.6.1",
 		"postcss": "8.5.3",
 		"postcss-combine-duplicated-selectors": "10.0.3",
 		"postcss-combine-media-query": "1.0.1",

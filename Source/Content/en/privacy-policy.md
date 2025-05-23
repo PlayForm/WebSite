@@ -58,10 +58,10 @@ Last updated: 02.11.2022 / February 11th 2022
 Welcome to **PlayForm ltd.**.
 
 **PlayForm ltd.** (“**us**”, “**we**”, or “**our**”) operates
-HTTPS://PlayForm.Cloud and PlayForm mobile application (hereinafter referred to as
+https://PlayForm.Cloud and PlayForm mobile application (hereinafter referred to as
 “**Service**”).
 
-Our Privacy Policy governs your visit to HTTPS://PlayForm.Cloud and PlayForm
+Our Privacy Policy governs your visit to https://PlayForm.Cloud and PlayForm
 mobile application, and explains how we collect, safeguard and disclose
 information that results from your use of our Service.
 
@@ -76,7 +76,7 @@ together with the Privacy Policy constitutes your agreement with us
 
 ## Definitions
 
-**SERVICE** means the HTTPS://PlayForm.Cloud website and PlayForm mobile
+**SERVICE** means the https://PlayForm.Cloud website and PlayForm mobile
 application operated by **PlayForm ltd.**
 
 **PERSONAL DATA** means data about a living individual who can be identified
@@ -271,7 +271,7 @@ Data, we cannot guarantee its absolute security.
 
 If you are a resident of the European Union (EU) and European Economic Area
 (EEA), you have certain data protection rights, covered by GDPR. – See more at
-HTTPS://eur-lex.europa.eu/eli/reg/2016/679/oj
+https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit
 the use of your Personal Data.
@@ -317,7 +317,7 @@ the world) that operates websites collecting personally identifiable information
 from California consumers to post a conspicuous privacy policy on its website
 stating exactly the information being collected and those individuals with whom
 it is being shared, and to comply with this policy. – See more at:
-HTTPS://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3
+https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3
 
 According to CalOPPA we agree to the following:
 
@@ -434,23 +434,23 @@ The payment processors we work with are:
 **PayPal or Braintree**:
 
 Their Privacy Policy can be viewed at
-HTTPS://www.paypal.com/webapps/mpp/ua/privacy-full
+https://www.paypal.com/webapps/mpp/ua/privacy-full
 
 **Apple Store In-App Payments**:
 
 Their Privacy Policy can be viewed at:
-HTTPS://www.apple.com/legal/privacy/en-ww/ /
-HTTPS://support.apple.com/en-us/HT203027
+https://www.apple.com/legal/privacy/en-ww/ /
+https://support.apple.com/en-us/HT203027
 
 **Google Play In-App Payments**:
 
 Their Privacy Policy can be viewed at:
-HTTPS://policies.google.com/privacy?hl=en&gl=us /
-HTTPS://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en
+https://policies.google.com/privacy?hl=en&gl=us /
+https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en
 
 **Stripe**:
 
-Their Privacy Policy can be viewed at: HTTPS://stripe.com/us/privacy
+Their Privacy Policy can be viewed at: https://stripe.com/us/privacy
 
 ## Links to Other Sites
 

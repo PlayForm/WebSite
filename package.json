@@ -2,9 +2,9 @@
 	"name": "@website/playform_cloud",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "HTTPS://GitHub.Com/PlayForm/WebSite#readme",
+	"homepage": "https://GitHub.Com/PlayForm/WebSite#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/WebSite/issues"
+		"url": "https://GitHub.Com/PlayForm/WebSite/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",

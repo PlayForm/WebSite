@@ -50,11 +50,7 @@
 		"solid-js": "1.9.7",
 		"tailwindcss": "3.4.17",
 		"typescript": "5.8.3",
-<<<<<<< HEAD
-		"zod": "3.25.28"
-=======
-		"zod": "3.25.27"
->>>>>>> 7e5ccf8392097f8c8a093ce59b0e7473d26218f1
+		"zod": "3.25.30"
 	},
 	"devDependencies": {
 		"@astrojs/ts-plugin": "1.10.4"

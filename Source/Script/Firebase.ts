@@ -1,7 +1,5 @@
-import { initializeApp } from "firebase/app";
-
-export default (() =>
-	initializeApp({
+export default await (async () =>
+	(await import("firebase/app")).initializeApp({
 		apiKey: "AIzaSyAkevZLi2u7BNRBxvnwYTTgRbpbQYWjGL8",
 		authDomain: "playform-cloud.firebaseapp.com",
 		projectId: "playform-cloud",

@@ -1,0 +1,1 @@
+import{registerMainProcessRemoteService}from"../../../../platform/ipc/electron-sandbox/services.js";import{IProcessService}from"../../../../platform/process/common/process.js";registerMainProcessRemoteService(IProcessService,"process");

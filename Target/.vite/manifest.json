@@ -1,14 +1,14 @@
 {
-  "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.0_@ty_f99a479e945b77054b2fb91f24f5cb12/node_modules/@astrojs/solid-js/dist/client.js": {
+  "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.0_@ty_5ae7a811e992f4c46c423b8c15ddd1e3/node_modules/@astrojs/solid-js/dist/client.js": {
     "file": "_astro/client.CenBy7L1.js",
     "name": "client",
-    "src": "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.0_@ty_f99a479e945b77054b2fb91f24f5cb12/node_modules/@astrojs/solid-js/dist/client.js",
+    "src": "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.0_@ty_5ae7a811e992f4c46c423b8c15ddd1e3/node_modules/@astrojs/solid-js/dist/client.js",
     "isEntry": true
   },
-  "../../../node_modules/.pnpm/astro@5.8.0_@types+node@22._23c0bb6c238f4e93e8ed11848eaa6315/node_modules/astro/components/ClientRouter.astro?astro&type=script&index=0&lang.ts": {
+  "../../../node_modules/.pnpm/astro@5.8.0_@types+node@22._8ac0dd3b4f2bc4e683bfbb70332cd8e2/node_modules/astro/components/ClientRouter.astro?astro&type=script&index=0&lang.ts": {
     "file": "_astro/ClientRouter.astro_astro_type_script_index_0_lang.70AGayl5.js",
     "name": "ClientRouter.astro_astro_type_script_index_0_lang",
-    "src": "../../../node_modules/.pnpm/astro@5.8.0_@types+node@22._23c0bb6c238f4e93e8ed11848eaa6315/node_modules/astro/components/ClientRouter.astro?astro&type=script&index=0&lang.ts",
+    "src": "../../../node_modules/.pnpm/astro@5.8.0_@types+node@22._8ac0dd3b4f2bc4e683bfbb70332cd8e2/node_modules/astro/components/ClientRouter.astro?astro&type=script&index=0&lang.ts",
     "isEntry": true,
     "imports": [
       "_index.DSBWf7TZ.js"

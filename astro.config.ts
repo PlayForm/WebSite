@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: On ? "HTTP://localhost" : "https://PlayForm.Cloud",
+	site: On ? "http://localhost" : "https://PlayForm.Cloud",
 	compressHTML: !On,
 	prefetch: {
 		defaultStrategy: "hover",

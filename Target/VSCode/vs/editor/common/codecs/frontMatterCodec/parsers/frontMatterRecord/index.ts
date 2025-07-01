@@ -1,1 +1,0 @@
-export{PartialFrontMatterRecord}from"./frontMatterRecord.js";export{PartialFrontMatterRecordName}from"./frontMatterRecordName.js";export{PartialFrontMatterRecordNameWithDelimiter}from"./frontMatterRecordNameWithDelimiter.js";

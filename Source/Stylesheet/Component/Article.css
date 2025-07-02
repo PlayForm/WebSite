@@ -1,5 +1,5 @@
 .article {
-	@apply prose prose-slate prose-h1:font-[#151515] mx-auto;
+	@apply prose prose-slate mx-auto prose-h1:font-[#151515];
 
 	.data-footnote-backref {
 		@apply font-sans no-underline;
@@ -11,7 +11,7 @@
 	}
 
 	a {
-		@apply ease-Ease break-all outline-none outline-offset-2 transition-all duration-150 hover:text-blue-950 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-950;
+		@apply break-all outline-none outline-offset-2 transition-all duration-150 ease-Ease hover:text-blue-200 focus-visible:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-200;
 	}
 
 	ul + h1 {

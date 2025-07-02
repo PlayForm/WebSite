@@ -28,26 +28,26 @@ export default {
 						},
 						li: {
 							"&::marker": {
-								color: theme("colors.red.950"),
+								color: theme("colors.red.200"),
 							},
 						},
 						h1: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 						h2: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 						h3: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 						h4: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 						h5: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 						h6: {
-							color: theme("colors.blue.950"),
+							color: theme("colors.blue.200"),
 						},
 					},
 				},

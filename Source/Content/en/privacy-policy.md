@@ -58,8 +58,8 @@ Last updated: 02.11.2022 / February 11th 2022
 Welcome to **PlayForm ltd.**.
 
 **PlayForm ltd.** (“**us**”, “**we**”, or “**our**”) operates
-https://PlayForm.Cloud and PlayForm mobile application (hereinafter referred to as
-“**Service**”).
+https://PlayForm.Cloud and PlayForm mobile application (hereinafter referred to
+as “**Service**”).
 
 Our Privacy Policy governs your visit to https://PlayForm.Cloud and PlayForm
 mobile application, and explains how we collect, safeguard and disclose

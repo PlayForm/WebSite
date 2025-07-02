@@ -338,10 +338,10 @@ entity.
 
 If you are a copyright owner, or authorized on behalf of one, and you believe
 that the copyrighted work has been copied in a way that constitutes copyright
-infringement, please submit your claim via email to dmca@PlayForm.Cloud, with the
-subject line: “**Copyright Infringement**” and include in your claim a detailed
-description of the alleged Infringement as detailed below, under “DMCA Notice
-and Procedure for Copyright Infringement Claims”
+infringement, please submit your claim via email to dmca@PlayForm.Cloud, with
+the subject line: “**Copyright Infringement**” and include in your claim a
+detailed description of the alleged Infringement as detailed below, under “DMCA
+Notice and Procedure for Copyright Infringement Claims”
 
 You may be held accountable for damages (including costs and attorneys' fees)
 for misrepresentation or bad-faith claims on the infringement of any Content

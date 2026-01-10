@@ -30,11 +30,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.10",
 		"@tailwindcss/typography": "0.5.16",
-<<<<<<< HEAD
-		"astro": "5.12.3",
-=======
 		"astro": "5.12.8",
->>>>>>> 2c898f8ae99828a475ec7f1c20685cc508c65b9e
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.21",
@@ -53,13 +49,8 @@
 		"solid-devtools": "0.34.3",
 		"solid-js": "1.9.7",
 		"tailwindcss": "3.4.17",
-<<<<<<< HEAD
-		"typescript": "5.8.3",
-		"zod": "4.0.10"
-=======
 		"typescript": "5.9.2",
 		"zod": "4.0.14"
->>>>>>> 2c898f8ae99828a475ec7f1c20685cc508c65b9e
 	},
 	"devDependencies": {
 		"@astrojs/ts-plugin": "1.10.4"

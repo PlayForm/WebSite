@@ -39,16 +39,29 @@ export const getStaticPaths = async () =>
 	}));
 
 const Slug = (
-	typeof Astro.props["Slug"] === "string" ? Astro.props["Slug"] : ""
+	typeof Astro.params !== "undefined" &&
+	typeof Astro.params["Slug"] === "string"
+		? Astro.params["Slug"]
+		: typeof Astro.props !== "undefined" &&
+			  typeof Astro.props["Slug"] === "string"
+			? Astro.props["Slug"]
+			: ""
 )
 	.toLowerCase()
 	.replaceAll(" ", "-");
 
 const File = (await Astro.glob("./../Content/en/*.md")).filter(
-	(page: { file: string | string[] }) =>
-		page.file.indexOf(Slug) > -1 ||
-		(Slug == "gdpr" &&
-			page.file.indexOf("personal-data-protection-policy") > -1),
+	(page: { file: string }) => {
+		// Extract filename without extension and normalize
+		const fileName = page.file.split("/").pop()?.replace(".md", "") || "";
+		const normalizedFileName = fileName.toLowerCase().replaceAll(" ", "-");
+
+		// Exact match logic
+		if (Slug === "gdpr") {
+			return normalizedFileName === "personal-data-protection-policy";
+		}
+		return normalizedFileName === Slug;
+	},
 );
 
 let Content: string,

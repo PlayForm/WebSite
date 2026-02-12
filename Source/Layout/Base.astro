@@ -6,6 +6,8 @@ import "@Stylesheet/Base.css";
 
 import { Head } from "astro-capo";
 
+import Favicon from "@playform/favicon/Favicon";
+
 const {
 	Font = [],
 	Title = "PlayForm ☁️",
@@ -20,7 +22,8 @@ interface Props {
 
 const Link = (Link: string[] = []) =>
 	Link.map(
-		(Link) => `<link rel="stylesheet" type="text/css" href="${Link}" />`,
+		(Link) => `<link rel="stylesheet" type="text/css"
+			href="${Link}" />`,
 	).join("\n");
 ---
 
@@ -38,20 +41,6 @@ const Link = (Link: string[] = []) =>
 
 		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="theme-color" content="#eaeaea" />
-		<meta name="mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta content="APP_NAME" name="apple-mobile-web-app-title" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="default" />
-		<meta name="msapplication-TileColor" content="#eaeaea" />
-		<meta
-			name="msapplication-TileImage"
-			content="/Favicon/mstile-144x144.png?v=21"
-		/>
-		<meta
-			name="msapplication-config"
-			content="/Favicon/browserconfig.xml?v=21"
-		/>
 		<meta name="format-detection" content="telephone=no" />
 		<meta name="twitter:dnt" content="on" />
 
@@ -62,11 +51,6 @@ const Link = (Link: string[] = []) =>
 			crossorigin
 		/>
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link
-			rel="manifest"
-			href="/Manifest.json"
-			crossorigin="use-credentials"
-		/>
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans400.css" />
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans500.css" />
 
@@ -79,52 +63,8 @@ const Link = (Link: string[] = []) =>
 		<Fragment set:html={Link(Font.map((Font: any) => Font))} />
 
 		<!-- Favicon -->
-		<link
-			rel="apple-touch-icon"
-			sizes="180x180"
-			href="/Favicon/apple-touch-icon.png?v=21"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="32x32"
-			href="/Favicon/favicon-32x32.png?v=21"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="194x194"
-			href="/Favicon/favicon-194x194.png?v=21"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="192x192"
-			href="/Favicon/android-chrome-192x192.png?v=21"
-		/>
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="16x16"
-			href="/Favicon/favicon-16x16.png?v=21"
-		/>
-		<link rel="manifest" href="/Favicon/Manifest.json?v=21" />
-		<link
-			rel="mask-icon"
-			href="/Favicon/safari-pinned-tab.svg?v=21"
-			color="#ffd600"
-		/>
-		<link rel="shortcut icon" href="/Favicon/favicon.ico?v=21" />
-		<meta name="msapplication-TileColor" content="#eaeaea" />
-		<meta
-			name="msapplication-TileImage"
-			content="/Favicon/mstile-144x144.png?v=21"
-		/>
-		<meta
-			name="msapplication-config"
-			content="/Favicon/browserconfig.xml?v=21"
-		/>
-		<meta name="theme-color" content="#eaeaea" />
+		<Favicon Path="/Favicon/" AppTitle={Title} />
+
 	</Head>
 	<body class="flex grow flex-col">
 		<div id="header" class="grow">

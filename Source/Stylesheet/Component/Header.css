@@ -9,5 +9,9 @@
 		height: 20px;
 
 		@apply m-1 rounded-full outline-none transition-all duration-150 ease-Ease;
+
+		svg {
+			@apply w-32;
+		}
 	}
 }

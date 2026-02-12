@@ -28,6 +28,7 @@ export default defineConfig({
 			? (await import("astrojs-service-worker")).default()
 			: null,
 		(await import("@astrojs/sitemap")).default(),
+		// @ts-ignore
 		!On ? (await import("@playform/inline")).default({ Logger: 1 }) : null,
 		!On
 			? (await import("@playform/compress")).default({ Logger: 1 })

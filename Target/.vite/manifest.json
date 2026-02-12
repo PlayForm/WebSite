@@ -1,23 +1,23 @@
 {
-  "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.3_@types+node@25.2.3_jiti@2.6.1_lightningcss@1.31.1_sass-embedded_d5e90a56fab8110e9e83521f4f846876/node_modules/@astrojs/solid-js/dist/client.js": {
+  "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.3_@types+node@25.2.3_jiti@2.6.1_lightningcss@1.31.1_sass-embedded_b0461c6d00e2c9522770bfd2d3c8e99e/node_modules/@astrojs/solid-js/dist/client.js": {
     "file": "_astro/client.Vfzkr1-Z.js",
     "name": "client",
-    "src": "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.3_@types+node@25.2.3_jiti@2.6.1_lightningcss@1.31.1_sass-embedded_d5e90a56fab8110e9e83521f4f846876/node_modules/@astrojs/solid-js/dist/client.js",
+    "src": "../../../node_modules/.pnpm/@astrojs+solid-js@5.1.3_@types+node@25.2.3_jiti@2.6.1_lightningcss@1.31.1_sass-embedded_b0461c6d00e2c9522770bfd2d3c8e99e/node_modules/@astrojs/solid-js/dist/client.js",
     "isEntry": true
   },
-  "../../../node_modules/.pnpm/firebase@12.8.0/node_modules/firebase/app/dist/esm/index.esm.js": {
-    "file": "_astro/index.esm.CgsA6p84.js",
+  "../../../node_modules/.pnpm/firebase@12.9.0/node_modules/firebase/app/dist/esm/index.esm.js": {
+    "file": "_astro/index.esm.sU8xLj0g.js",
     "name": "index.esm",
-    "src": "../../../node_modules/.pnpm/firebase@12.8.0/node_modules/firebase/app/dist/esm/index.esm.js",
+    "src": "../../../node_modules/.pnpm/firebase@12.9.0/node_modules/firebase/app/dist/esm/index.esm.js",
     "isDynamicEntry": true
   },
   "Source/Layout/Base.astro?astro&type=script&index=0&lang.ts": {
-    "file": "_astro/Base.astro_astro_type_script_index_0_lang.B6uUgNZF.js",
+    "file": "_astro/Base.astro_astro_type_script_index_0_lang.B99h3bg9.js",
     "name": "Base.astro_astro_type_script_index_0_lang",
     "src": "Source/Layout/Base.astro?astro&type=script&index=0&lang.ts",
     "isEntry": true,
     "dynamicImports": [
-      "../../../node_modules/.pnpm/firebase@12.8.0/node_modules/firebase/app/dist/esm/index.esm.js"
+      "../../../node_modules/.pnpm/firebase@12.9.0/node_modules/firebase/app/dist/esm/index.esm.js"
     ]
   },
   "astro:scripts/page.js": {

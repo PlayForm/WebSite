@@ -31,7 +31,9 @@ export default defineConfig({
 		// @ts-ignore
 		!On ? (await import("@playform/inline")).default({ Logger: 1 }) : null,
 		!On
-			? (await import("@playform/compress")).default({ Logger: 1 })
+			? (await import("@playform/compress")).default({
+					Logger: 1,
+				})
 			: null,
 	],
 	experimental: {

@@ -4,7 +4,7 @@ import Base from "@Layout/Base.astro";
 import "@Stylesheet/Component/Article.css";
 
 interface Props {
-	Slug: string;
+	Slug?: string;
 }
 
 export const Capitalize = (Text: string) =>
@@ -34,14 +34,15 @@ export const getStaticPaths = async () =>
 		"privacy-policy",
 		"terms of service",
 		"terms-of-service",
-	].map((Slug) => ({
-		params: { Slug },
+	].map((slug) => ({
+		params: { slug },
 	}));
 
-const Slug = (
+// Get the slug from Astro.params (dynamic route parameter)
+const pageSlug = (
 	typeof Astro.params !== "undefined" &&
-	typeof Astro.params["Slug"] === "string"
-		? Astro.params["Slug"]
+	typeof Astro.params["slug"] === "string"
+		? Astro.params["slug"]
 		: typeof Astro.props !== "undefined" &&
 			  typeof Astro.props["Slug"] === "string"
 			? Astro.props["Slug"]
@@ -50,26 +51,37 @@ const Slug = (
 	.toLowerCase()
 	.replaceAll(" ", "-");
 
-const File = (await Astro.glob("./../Content/en/*.md")).filter(
-	(page: { file: string }) => {
-		// Extract filename without extension and normalize
-		const fileName = page.file.split("/").pop()?.replace(".md", "") || "";
-		const normalizedFileName = fileName.toLowerCase().replaceAll(" ", "-");
+// Define the type for imported markdown files
+interface MarkdownContent {
+	compiledContent: () => Promise<string>;
+	frontmatter: Record<string, any>;
+	file: string;
+}
 
-		// Exact match logic
-		if (Slug === "gdpr") {
-			return normalizedFileName === "personal-data-protection-policy";
-		}
-		return normalizedFileName === Slug;
-	},
-);
+const Files = Object.values(
+	import.meta.glob<MarkdownContent>("./../Content/en/*.md", { eager: true }),
+) as MarkdownContent[];
+
+const matchedFiles = Files.filter((page) => {
+	// Extract filename without extension and normalize
+	const fileName = page.file.split("/").pop()?.replace(".md", "") || "";
+	const normalizedFileName = fileName.toLowerCase().replaceAll(" ", "-");
+
+	// Exact match logic
+	if (pageSlug === "gdpr") {
+		return normalizedFileName === "personal-data-protection-policy";
+	}
+	return normalizedFileName === pageSlug;
+});
 
 let Content: string,
 	Title = "";
 
-if (typeof File[0] !== "undefined") {
-	Content = await File[0].compiledContent();
-	Title = File[0].frontmatter["Title"];
+const File = matchedFiles[0];
+
+if (File !== undefined && File !== null) {
+	Content = await File.compiledContent();
+	Title = File.frontmatter["Title"] ?? "";
 } else {
 	Content = "Not found.";
 	Title = "404.";

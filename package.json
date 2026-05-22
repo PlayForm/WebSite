@@ -44,7 +44,7 @@
 		"postcss-import": "16.1.1",
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.4",
-		"sass": "1.99.0",
+		"sass": "1.100.0",
 		"sharp": "0.34.5",
 		"solid-devtools": "0.34.5",
 		"solid-js": "1.9.13",

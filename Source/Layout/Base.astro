@@ -4,9 +4,8 @@ import Header from "@Component/Header.astro";
 
 import "@Stylesheet/Base.css";
 
-import { Head } from "astro-capo";
-
 import Favicon from "@playform/favicon/Favicon";
+import { Head } from "astro-capo";
 
 const {
 	Font = [],
@@ -64,7 +63,6 @@ const Link = (Link: string[] = []) =>
 
 		<!-- Favicon -->
 		<Favicon Path="/Favicon/" AppTitle={Title} />
-
 	</Head>
 	<body class="flex grow flex-col">
 		<div id="header" class="grow">

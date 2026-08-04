@@ -3,10 +3,10 @@ import Footer from "@Component/Footer.astro";
 import Header from "@Component/Header.astro";
 
 import "@Stylesheet/Base.css";
-
-import { Head } from "astro-capo";
+import "@Stylesheet/Global.css";
 
 import Favicon from "@playform/favicon/Favicon";
+import { Head } from "astro-capo";
 
 const {
 	Font = [],
@@ -54,17 +54,12 @@ const Link = (Link: string[] = []) =>
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans400.css" />
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans500.css" />
 
-		<style is:global>
-			@import "@Stylesheet/Global.css";
-		</style>
-
 		<slot name="Head" />
 
 		<Fragment set:html={Link(Font.map((Font: any) => Font))} />
 
 		<!-- Favicon -->
 		<Favicon Path="/Favicon/" AppTitle={Title} />
-
 	</Head>
 	<body class="flex grow flex-col">
 		<div id="header" class="grow">

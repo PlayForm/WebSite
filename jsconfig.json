@@ -1,13 +1,23 @@
 {
 	"$schema": "https://json.schemastore.org/jsconfig",
+
 	"compilerOptions": {
 		"baseUrl": "./",
+
 		"emitDeclarationOnly": false,
+
+		"ignoreDeprecations": "6.0",
+
 		"noEmit": true,
+
 		"outDir": "Target",
+
 		"rootDir": ".",
+
 		"types": ["astro/client", "astro/env"]
 	},
+
 	"extends": "@playform/build/jsconfig",
+
 	"include": ["Source"]
 }

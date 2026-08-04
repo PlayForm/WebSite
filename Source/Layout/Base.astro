@@ -3,6 +3,7 @@ import Footer from "@Component/Footer.astro";
 import Header from "@Component/Header.astro";
 
 import "@Stylesheet/Base.css";
+import "@Stylesheet/Global.css";
 
 import Favicon from "@playform/favicon/Favicon";
 import { Head } from "astro-capo";
@@ -52,10 +53,6 @@ const Link = (Link: string[] = []) =>
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans400.css" />
 		<link rel="stylesheet" type="text/css" href="/Font/AlbertSans500.css" />
-
-		<style is:global>
-			@import "@Stylesheet/Global.css";
-		</style>
 
 		<slot name="Head" />
 

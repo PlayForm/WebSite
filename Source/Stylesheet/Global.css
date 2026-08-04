@@ -1,4 +1,5 @@
 html {
+	overflow: hidden;
 	-webkit-tap-highlight-color: transparent;
 	letter-spacing: 0.21px !important;
 }
@@ -9,6 +10,8 @@ body {
 }
 
 body {
+	overflow: hidden;
+
 	@apply flex flex-grow flex-col tabular-nums text-[#151515] antialiased sm:subpixel-antialiased;
 
 	font-variant-ligatures: no-common-ligatures;

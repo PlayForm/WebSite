@@ -11,7 +11,11 @@
 		@apply m-1 rounded-full outline-none transition-all duration-150 ease-Ease;
 
 		svg {
-			@apply w-32;
+			/* Height must be explicit: the asset's `height="1727"` attribute
+			 * otherwise wins over `w-32` and the logo box becomes 128x1727,
+			 * which flex-centres into a ~900px document floor on every
+			 * viewport - a phantom scroll on an otherwise static page. */
+			@apply h-auto w-32;
 		}
 	}
 }

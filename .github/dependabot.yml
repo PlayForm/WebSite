@@ -13,6 +13,11 @@ updates:
           interval: "daily"
       versioning-strategy: increase
       ignore:
+          # Keep this list in step with the repo-local .ncurc, which rejects
+          # these packages by name: ncu must not bump them, and Dependabot
+          # must not open a PR for them either. solid-js 2.x removed the
+          # ./web export that @astrojs/solid-js 7.1.6 still imports.
+          - dependency-name: "solid-js"
           - dependency-name: "tailwindcss"
             versions:
                 - "^4.0.0"

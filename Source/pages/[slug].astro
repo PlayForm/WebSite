@@ -10,8 +10,13 @@ interface Props {
 export const Capitalize = (Text: string) =>
 	Text.replace(/\b\w/g, (Text) => Text.toUpperCase());
 
-export const getStaticPaths = async () =>
-	[
+/* Every document in the content directory is routable under the path it
+ * declares in its frontmatter, and under its file name. Adding a document to
+ * the directory is therefore enough to publish it and link it; nothing has to
+ * be registered here. The legacy list is kept for links already in the wild
+ * (GDPR, upper-case and spaced forms). */
+export const getStaticPaths = async () => {
+	const Legacy = [
 		"GDPR",
 		"Gdpr",
 		"PERSONAL DATA PROTECTION POLICY",
@@ -34,9 +39,22 @@ export const getStaticPaths = async () =>
 		"privacy-policy",
 		"terms of service",
 		"terms-of-service",
-	].map((slug) => ({
-		params: { slug },
-	}));
+	];
+
+	const Files = Object.values(
+		import.meta.glob<MarkdownContent>("./../Content/en/*.md", { eager: true }),
+	);
+
+	const Generated = Files.flatMap((File) => {
+		const Name = (File.file.split("/").pop() ?? "").replace(".md", "");
+		const Path = String(File.frontmatter["Path"] ?? "").replace(/^\//, "");
+		return [Name, Path];
+	});
+
+	return [...new Set([...Legacy, ...Generated])]
+		.filter((Slug) => Slug !== "")
+		.map((slug) => ({ params: { slug } }));
+};
 
 // Get the slug from Astro.params (dynamic route parameter)
 const pageSlug = (

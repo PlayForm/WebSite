@@ -1,5 +1,10 @@
 ---
 Title: Personal Data Protection Policy
+Path: /Personal-Data-Protection-Policy
+Category: Company and Legal
+Tag: Data protection
+Summary: "The Company's data protection framework: principles, legal grounds, access, retention, security and breach response."
+Order: 1
 ---
 
 - [PERSONAL DATA PROTECTION POLICY]

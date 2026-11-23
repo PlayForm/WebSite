@@ -1,5 +1,10 @@
 ---
 Title: Privacy Policy
+Path: /Privacy-Policy
+Category: Company and Legal
+Tag: Data protection
+Summary: What the Company collects, why it collects it, how long it keeps it, and the rights available to the people concerned.
+Order: 2
 ---
 
 - [PRIVACY POLICY]

@@ -1,0 +1,179 @@
+---
+import Base from "@Layout/Base.astro";
+
+import "@Stylesheet/Page/Documentation.css";
+
+interface DocumentEntry {
+	Title: string;
+	Category: string;
+	Tag: string;
+	Summary: string;
+	Order: number;
+	Route: string;
+}
+
+interface MarkdownModule {
+	frontmatter: Record<string, any>;
+	file: string;
+}
+
+/* The register is generated from the content directory: a document becomes
+ * part of the tree by being published with a `Category` in its frontmatter.
+ * Nothing is listed here by hand, so a document can never be published and
+ * then be missing from the index. */
+const Files = Object.values(
+	import.meta.glob<MarkdownModule>("./../Content/en/*.md", { eager: true }),
+) as MarkdownModule[];
+
+const CategoryOrder = ["Company and Legal", "Equality, Diversity and Inclusion"];
+
+const CategoryBlurb: Record<string, string> = {
+	"Company and Legal":
+		"The terms the Company offers and the obligations it accepts towards the people it serves and the data it holds.",
+	"Equality, Diversity and Inclusion":
+		"The Company's equality framework: the Gender Equality Plan and the policies that carry each of its measures, targets and evidence.",
+};
+
+const Documents: DocumentEntry[] = Files.map((File) => {
+	const Title = File.frontmatter["Title"] ?? "";
+	return {
+		Title,
+		Category: File.frontmatter["Category"] ?? "Company and Legal",
+		Tag: File.frontmatter["Tag"] ?? "",
+		Summary: File.frontmatter["Summary"] ?? "",
+		Order: File.frontmatter["Order"] ?? 100,
+		Route: String(File.frontmatter["Path"] ?? "/" + Title.replaceAll(" ", "-")),
+	};
+}).sort(
+	(Left, Right) =>
+		Left.Order - Right.Order || Left.Title.localeCompare(Right.Title),
+);
+
+const Categories = [...new Set([...CategoryOrder, ...Documents.map((Document) => Document.Category)])]
+	.map((Category) => ({
+		Name: Category,
+		Blurb: CategoryBlurb[Category] ?? "",
+		Documents: Documents.filter((Document) => Document.Category === Category),
+	}))
+	.filter((Category) => Category.Documents.length > 0);
+---
+
+<Base
+	Font={[
+		"/Font/AlbertSans500.css",
+		"/Font/AlbertSans600.css",
+		"/Font/AlbertSans700.css",
+		"/Font/AlbertSans800.css",
+		"/Font/AlbertSans900.css",
+	]}
+	Title="Documentation 🗂️"
+	Description="Every document PlayForm publishes: company and legal policies, and the equality framework with the policies that carry its measures.">
+	<div class="flex flex-col">
+		<main class="flex grow justify-center">
+			<div class="flex grow self-center">
+				<div class="container sm:pb-36">
+					<div class="Documentation">
+						<header class="Documentation-Head">
+							<p class="Documentation-Kicker">Document register</p>
+							<h1 class="Documentation-Title">Documentation</h1>
+							<p class="Documentation-Intro">
+								Everything PlayForm publishes, in one tree. Each document is
+								versioned, dated, owned by a named role and reviewed on a stated
+								cycle. This page is the index for all of them: it is generated
+								from the documents themselves, so a document that is published
+								is listed here, and a document that is listed here exists.
+							</p>
+							<p class="Documentation-Intro">
+								The register has two branches. <strong>Company and Legal</strong>
+								holds the terms the Company offers and the obligations it accepts
+								towards the people it serves and the data it holds. <strong
+									>Equality, Diversity and Inclusion</strong
+								>
+								holds the Gender Equality Plan and the policies that carry each of
+								its measures, targets and evidence.
+							</p>
+						</header>
+
+						<section class="Documentation-Requirements" aria-label="About the register">
+							<article class="Requirement">
+								<p class="Requirement-Label">Coverage</p>
+								<h2 class="Requirement-Title">
+									{Documents.length} documents, {Categories.length} branches
+								</h2>
+								<p class="Requirement-Body">
+									The terms the Company offers, the equality framework it holds
+									itself to, and the policy that carries each of the framework's
+									measures. A document belongs in the register when someone
+									outside the Company may need to read it, and it stays there for
+									as long as it is in force.
+								</p>
+								<p class="Requirement-Body">
+									<strong>Nothing here is listed by hand.</strong> The tree is
+									built from the documents themselves, so a published document
+									cannot be missing from the index, and a listed document cannot
+									be absent.
+								</p>
+							</article>
+
+							<article class="Requirement">
+								<p class="Requirement-Label">Adoption</p>
+								<h2 class="Requirement-Title">Versioned, owned, reviewed</h2>
+								<p class="Requirement-Body">
+									Every document carries a version, a date, the role that approved
+									it, the role that owns it and the cycle on which it is reviewed.
+									The version published at its address is the version in force.
+								</p>
+								<p class="Requirement-Body">
+									<strong>The signed original stays with the Company.</strong> It is
+									provided to partners, customers, auditors and funders on request,
+									together with the records that show the commitments being kept.
+								</p>
+							</article>
+						</section>
+
+						<nav class="Tree" aria-label="All documents">
+							{Categories.map((Category) => (
+								<section class="Tree-Branch">
+									<header class="Tree-Head">
+										<h2 class="Tree-Title">{Category.Name}</h2>
+										<span class="Tree-Count">{Category.Documents.length}</span>
+									</header>
+									{Category.Blurb !== "" && (
+										<p class="Tree-Blurb">{Category.Blurb}</p>
+									)}
+									<ol class="Tree-List">
+										{Category.Documents.map((Document) => (
+											<li class="Tree-Leaf">
+												<a class="Tree-Link" href={Document.Route} rel="prefetch">
+													<span class="Tree-Link-Title">{Document.Title}</span>
+													<span class="Tree-Tag">{Document.Tag}</span>
+												</a>
+												{Document.Summary !== "" && (
+													<p class="Tree-Summary">{Document.Summary}</p>
+												)}
+											</li>
+										))}
+									</ol>
+								</section>
+							))}
+						</nav>
+
+						<section class="Documentation-Note">
+							<h2 class="Documentation-Note-Title">How to read a document</h2>
+							<p class="Documentation-Note-Body">
+								Each document opens with a control block: its version, its date,
+								the role that approved it, the role that owns it and its review
+								cycle. The version published at its address is the version in
+								force; the signed original is retained by the Company and provided
+								to funders, validators and auditors on request. Where a document
+								refers to another, the reference is a link into this tree, so the
+								chain from a commitment to the evidence for it can be followed in
+								both directions.
+							</p>
+						</section>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+</Base>

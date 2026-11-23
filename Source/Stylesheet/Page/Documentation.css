@@ -1,0 +1,161 @@
+.Documentation {
+	@apply mx-auto w-full max-w-3xl px-5;
+
+	&-Head {
+		@apply pt-4 pb-10 sm:pt-10;
+	}
+
+	&-Kicker {
+		@apply mb-3 text-xs font-semibold uppercase tracking-[0.24em] text-gray-400;
+	}
+
+	&-Title {
+		@apply mb-5 text-5xl font-black leading-none tracking-tight text-[#151515] sm:text-6xl;
+	}
+
+	&-Intro {
+		@apply mb-4 max-w-2xl text-base leading-relaxed text-gray-600;
+
+		strong {
+			@apply font-semibold text-[#151515];
+		}
+	}
+}
+
+.Documentation-Requirements {
+	@apply mb-14 grid gap-4 sm:grid-cols-2;
+}
+
+.Requirement {
+	@apply relative flex flex-col border border-gray-200 bg-gray-50 p-5;
+
+	&-Label {
+		@apply mb-1 text-[0.68rem] font-semibold uppercase tracking-[0.18em] text-red-300;
+	}
+
+	&-Title {
+		@apply mb-3 text-lg font-bold leading-snug text-[#151515];
+	}
+
+	&-Body {
+		@apply mb-3 text-sm leading-relaxed text-gray-600;
+
+		&:last-child {
+			@apply mb-0;
+		}
+
+		strong {
+			@apply font-semibold text-[#151515];
+		}
+	}
+
+	a {
+		@apply underline decoration-gray-300 underline-offset-4 outline-none outline-offset-2 transition-all duration-150 ease-Ease hover:text-blue-300 hover:decoration-transparent focus-visible:outline-2 focus-visible:outline-blue-200;
+	}
+}
+
+.Tree {
+	@apply mb-14;
+}
+
+.Tree-Branch {
+	@apply mb-10;
+
+	&:last-child {
+		@apply mb-0;
+	}
+}
+
+.Tree-Head {
+	@apply mb-2 flex items-baseline gap-3;
+}
+
+.Tree-Title {
+	@apply text-2xl font-extrabold tracking-tight text-[#151515];
+}
+
+.Tree-Count {
+	@apply text-xs font-semibold tabular-nums text-gray-400;
+}
+
+.Tree-Blurb {
+	@apply mb-5 max-w-2xl text-sm leading-relaxed text-gray-500;
+}
+
+.Tree-List {
+	@apply relative ml-1 border-l border-gray-200 pl-6;
+
+	list-style: none;
+	margin-bottom: 0;
+}
+
+.Tree-Leaf {
+	@apply relative py-3;
+
+	&:first-child {
+		@apply pt-1;
+	}
+
+	/* The elbow that joins a leaf to the branch rail. */
+	&::before {
+		content: "";
+		position: absolute;
+		top: 1.5rem;
+		left: -1.5rem;
+		width: 1.1rem;
+		height: 1px;
+		background-color: #e5e7eb;
+	}
+
+	&:first-child::before {
+		top: 1rem;
+	}
+
+	/* The node: one small red square at the junction, the same accent the
+	 * rest of the site uses for list markers. */
+	&::after {
+		content: "";
+		position: absolute;
+		top: calc(1.5rem - 2.5px);
+		left: -1.6rem;
+		width: 5px;
+		height: 5px;
+		background-color: #fecaca;
+	}
+
+	&:first-child::after {
+		top: calc(1rem - 2.5px);
+	}
+}
+
+.Tree-Link {
+	@apply flex flex-wrap items-baseline gap-x-3 gap-y-1 no-underline outline-none outline-offset-2 transition-all duration-150 ease-Ease hover:text-blue-300 focus-visible:outline-2 focus-visible:outline-blue-200;
+}
+
+.Tree-Link-Title {
+	@apply text-base font-semibold text-[#151515] underline decoration-gray-300 underline-offset-[6px] transition-all duration-150 ease-Ease;
+}
+
+.Tree-Link:hover .Tree-Link-Title {
+	@apply text-blue-300 decoration-transparent;
+}
+
+.Tree-Tag {
+	@apply text-[0.68rem] font-semibold uppercase tracking-[0.16em] text-gray-400;
+}
+
+.Tree-Summary {
+	@apply mt-1 max-w-xl text-sm leading-relaxed text-gray-500;
+}
+
+.Documentation-Note {
+	@apply border-t border-gray-200 pt-8;
+
+	&-Title {
+		@apply mb-3 text-lg font-bold text-[#151515];
+	}
+
+	&-Body {
+		@apply max-w-2xl text-sm leading-relaxed text-gray-600;
+	}
+}

@@ -1,5 +1,10 @@
 ---
 Title: Terms of Service
+Path: /Terms-of-Service
+Category: Company and Legal
+Tag: Agreement
+Summary: The agreement between the Company and the people and organisations that use its services.
+Order: 3
 ---
 
 - [TERMS OF SERVICE]
